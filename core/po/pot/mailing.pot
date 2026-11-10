@@ -1,0 +1,3260 @@
+# Copyright CiviCRM LLC (c) 2004-2015
+# This file is distributed under the same license as the CiviCRM package.
+# If you contribute heavily to a translation and deem your work copyrightable,
+# make sure you license it to CiviCRM LLC under Academic Free License 3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: CiviCRM\n"
+"POT-Creation-Date: 2026-10-08 11:27-0400\n"
+"Language-Team: CiviCRM Translators <civicrm-translators@lists.civicrm.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: CRM/Mailing/ActionTokens.php
+msgid "Subscribe URL (Action)"
+msgstr ""
+
+#: CRM/Mailing/ActionTokens.php
+msgid "Forward URL (Action)"
+msgstr ""
+
+#: CRM/Mailing/ActionTokens.php
+msgid "Opt-Out (Action)"
+msgstr ""
+
+#: CRM/Mailing/ActionTokens.php
+msgid "Opt-Out URL (Action)"
+msgstr ""
+
+#: CRM/Mailing/ActionTokens.php
+msgid "Reply (Action)"
+msgstr ""
+
+#: CRM/Mailing/ActionTokens.php
+msgid "Unsubscribe (Action)"
+msgstr ""
+
+#: CRM/Mailing/ActionTokens.php
+msgid "Unsubscribe URL (Action)"
+msgstr ""
+
+#: CRM/Mailing/ActionTokens.php
+msgid "Resubscribe (Action)"
+msgstr ""
+
+#: CRM/Mailing/ActionTokens.php
+msgid "Resubscribe URL (Action)"
+msgstr ""
+
+#: CRM/Mailing/ActionTokens.php
+#: schema/Mailing/MailingEventBounce.entityType.php
+#: schema/Mailing/MailingEventDelivered.entityType.php
+#: schema/Mailing/MailingEventOpened.entityType.php
+#: schema/Mailing/MailingEventReply.entityType.php
+#: schema/Mailing/MailingEventTrackableURLOpen.entityType.php
+#: schema/Mailing/MailingEventUnsubscribe.entityType.php
+msgid "Event Queue ID"
+msgstr ""
+
+#: CRM/Mailing/BAO/Mailing.php
+msgid ""
+"You have selected an email Selection Method without specifying a Location "
+"Type. Please go back and change your recipient settings (using the wrench "
+"icon next to \"Recipients\")."
+msgstr ""
+
+#: CRM/Mailing/BAO/Mailing.php
+msgid "Field \"body_text\" is required."
+msgstr ""
+
+#: CRM/Mailing/BAO/Mailing.php CRM/Mailing/Selector/Event.php
+msgid "Opt-Out"
+msgstr ""
+
+#: CRM/Mailing/BAO/Mailing.php ext/civi_mail/ang/crmMailing/BlockReview.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+#: templates/CRM/Mailing/Page/Resubscribe.tpl
+msgid "Resubscribe"
+msgstr ""
+
+#: CRM/Mailing/BAO/Mailing.php
+msgid "You do not have permission to access this mailing report"
+msgstr ""
+
+#: CRM/Mailing/BAO/Mailing.php
+msgid "HTML Format"
+msgstr ""
+
+#: CRM/Mailing/BAO/Mailing.php
+msgid "SMS Message"
+msgstr ""
+
+#: CRM/Mailing/BAO/Mailing.php
+msgid "Document Body"
+msgstr ""
+
+#: CRM/Mailing/BAO/Mailing.php
+msgid "Save As New Template"
+msgstr ""
+
+#: CRM/Mailing/BAO/Mailing.php
+msgid ""
+"The <a href=\"%1\">default mailbox</a> has not been configured. You will "
+"find <a href=\"%2\">more info in the online system administrator guide</a>"
+msgstr ""
+
+#: CRM/Mailing/BAO/Mailing.php
+msgid "Opens: %1"
+msgstr ""
+
+#: CRM/Mailing/BAO/Mailing.php
+msgid "View Mailing"
+msgstr ""
+
+#: CRM/Mailing/BAO/Mailing.php
+msgid "Standard CiviMail interface with wysiwyg editor."
+msgstr ""
+
+#: CRM/Mailing/BAO/Mailing.php
+msgid "The job size must be at least 1000 or set to 0 (unlimited)."
+msgstr ""
+
+#: CRM/Mailing/BAO/MailingJob.php
+msgid "Not scheduled"
+msgstr ""
+
+#: CRM/Mailing/BAO/MailingJob.php
+msgid ""
+"No relevant activity type found when recording Mailing Event delivered "
+"Activity"
+msgstr ""
+
+#: CRM/Mailing/BAO/Query.php
+#: schema/Mailing/MailingEventDelivered.entityType.php
+msgid "Mailing Delivery"
+msgstr ""
+
+#: CRM/Mailing/BAO/Query.php
+msgid "Bounce type(s)"
+msgstr ""
+
+#: CRM/Mailing/BAO/Query.php
+msgid "Mailing: Trackable Opens"
+msgstr ""
+
+#: CRM/Mailing/BAO/Query.php
+msgid "Mailing: Trackable URL Clicks"
+msgstr ""
+
+#: CRM/Mailing/BAO/Query.php
+msgid "Mailing: Trackable Replies"
+msgstr ""
+
+#: CRM/Mailing/BAO/Query.php CRM/Mailing/Selector/Event.php
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Opt-out Requests"
+msgstr ""
+
+#: CRM/Mailing/BAO/Query.php
+msgid "Mailing: "
+msgstr ""
+
+#: CRM/Mailing/BAO/Query.php CRM/Mailing/Selector/Event.php
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Unsubscribe Requests"
+msgstr ""
+
+#: CRM/Mailing/BAO/Query.php
+msgid "Campaign %1 %2"
+msgstr ""
+
+#: CRM/Mailing/BAO/Query.php schema/Mailing/MailingJob.entityType.php
+msgid "Mailing Job Status"
+msgstr ""
+
+#: CRM/Mailing/BAO/Query.php schema/Mailing/BounceType.entityType.php
+msgid "Bounce Types"
+msgstr ""
+
+#: CRM/Mailing/BAO/Query.php
+msgid "Trackable Opens"
+msgstr ""
+
+#: CRM/Mailing/BAO/Query.php
+msgid "Trackable URLs"
+msgstr ""
+
+#: CRM/Mailing/BAO/Query.php
+msgid "Trackable Replies"
+msgstr ""
+
+#: CRM/Mailing/BAO/SMSJob.php
+msgid "[CiviMail Draft]"
+msgstr ""
+
+#: CRM/Mailing/Controller/Send.php
+msgid ""
+"Remove %1 disabled group(s) while copying: <ul><li>%2</li></ul>Please check "
+"recipients."
+msgstr ""
+
+#: CRM/Mailing/Controller/Send.php
+msgid "Removed disabled groups"
+msgstr ""
+
+#: CRM/Mailing/Event/BAO/MailingEventBounce.php
+msgid "Unknown bounce type: Could not parse bounce email"
+msgstr ""
+
+#: CRM/Mailing/Event/BAO/MailingEventSubscribe.php
+msgid "You are already subscribed in %1, your subscription is %2."
+msgstr ""
+
+#: CRM/Mailing/Event/BAO/MailingEventSubscribe.php
+msgid ""
+"Your subscription request has been submitted for %1. Check your inbox "
+"shortly for the confirmation email(s). If you do not see a confirmation "
+"email, please check your spam/junk mail folder."
+msgstr ""
+
+#: CRM/Mailing/Event/BAO/MailingEventSubscribe.php
+msgid ""
+"We had a problem processing your subscription request for %1. You have tried "
+"to subscribe to a private group and/or we encountered a database error. "
+"Please contact the site administrator."
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php CRM/Mailing/Page/Browse.php
+msgid "You do not have permission to send SMS"
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php CRM/Mailing/Page/Browse.php
+msgid "You do not have permission to view this page."
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php CRM/Mailing/Selector/Browse.php
+msgid "Cancel Mailing"
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php
+msgid "Pause Mailing"
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php
+msgid "Resume Mailing"
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php CRM/Mailing/Selector/Browse.php
+msgid "Archive Mailing"
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php CRM/Mailing/Info.php
+#: CRM/Mailing/Selector/Browse.php
+msgid "Delete Mailing"
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php
+msgid "Are you sure you want to cancel this mailing?"
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php
+msgid "Are you sure you want to pause this mailing?"
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php
+msgid "Are you sure you want to resume this mailing?"
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php
+msgid "Are you sure you want to archive this mailing?"
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php
+msgid "Are you sure you want to delete this mailing?"
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php
+msgid ""
+"The mailing has been paused. Active message deliveries may continue for a "
+"few minutes, but CiviMail will not begin delivery of any more batches."
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php
+msgid "The mailing has been resumed."
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php
+msgid "Resumed"
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php
+msgid "The mailing has been canceled."
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php
+msgid "Selected mailing has been deleted."
+msgstr ""
+
+#: CRM/Mailing/Form/Approve.php CRM/Mailing/Selector/Browse.php
+msgid "Approve/Reject Mailing"
+msgstr ""
+
+#: CRM/Mailing/Form/Approve.php
+msgid "Approve/Reject Note"
+msgstr ""
+
+#: CRM/Mailing/Form/Approve.php schema/Mailing/Mailing.entityType.php
+msgid "Approval Status"
+msgstr ""
+
+#: CRM/Mailing/Form/Approve.php
+msgid "No mailing id has been able to be determined"
+msgstr ""
+
+#: CRM/Mailing/Form/Component.php
+msgid "Component Type"
+msgstr ""
+
+#: CRM/Mailing/Form/Component.php
+msgid "Body - TEXT Format"
+msgstr ""
+
+#: CRM/Mailing/Form/Component.php
+msgid "Body - HTML Format"
+msgstr ""
+
+#: CRM/Mailing/Form/Component.php
+msgid "The mailing component '%1' has been saved."
+msgstr ""
+
+#: CRM/Mailing/Form/Component.php
+msgid ""
+"This token can only be used in send mailing context (body, header, footer).."
+msgstr ""
+
+#: CRM/Mailing/Form/Component.php
+msgid "This message is having a invalid token - %1: %2"
+msgstr ""
+
+#: CRM/Mailing/Form/Component.php
+msgid "The following errors were detected in %1 message:"
+msgstr ""
+
+#: CRM/Mailing/Form/Component.php
+msgid "More information on tokens..."
+msgstr ""
+
+#: CRM/Mailing/Form/Component.php
+msgid "Please provide either HTML or TEXT format for the Body."
+msgstr ""
+
+#: CRM/Mailing/Form/Optout.php CRM/Mailing/Form/Unsubscribe.php
+msgid "Invalid request: missing parameters"
+msgstr ""
+
+#: CRM/Mailing/Form/Optout.php CRM/Mailing/Form/Unsubscribe.php
+#: CRM/Mailing/Page/OptOut.php CRM/Mailing/Page/Unsubscribe.php
+msgid "Invalid request: bad parameters"
+msgstr ""
+
+#: CRM/Mailing/Form/Optout.php
+msgid "Opt Out Confirmation"
+msgstr ""
+
+#: CRM/Mailing/Form/Optout.php CRM/Mailing/Service/ListUnsubscribe.php
+#: ext/civi_mail/ang/crmMailing/BlockResponses.html
+#: schema/Mailing/Mailing.entityType.php
+msgid "Opt Out"
+msgstr ""
+
+#: CRM/Mailing/Form/Optout.php
+msgid "%1 opt out confirmed."
+msgstr ""
+
+#: CRM/Mailing/Form/Search.php CRM/Mailing/Selector/Browse.php
+msgid "SMS Name"
+msgstr ""
+
+#: CRM/Mailing/Form/Search.php
+msgid "SMS Date"
+msgstr ""
+
+#: CRM/Mailing/Form/Search.php
+msgid "Mailing Date"
+msgstr ""
+
+#: CRM/Mailing/Form/Search.php
+msgid "Created or Sent by"
+msgstr ""
+
+#: CRM/Mailing/Form/Search.php
+msgid "Draft / Unscheduled"
+msgstr ""
+
+#: CRM/Mailing/Form/Search.php
+msgid "- all languages -"
+msgstr ""
+
+#: CRM/Mailing/Form/Subscribe.php
+msgid "Subscribe to Mailing List - %1"
+msgstr ""
+
+#: CRM/Mailing/Form/Subscribe.php
+msgid "Mailing List Subscription"
+msgstr ""
+
+#: CRM/Mailing/Form/Subscribe.php
+msgid "There are no public mailing list groups to display."
+msgstr ""
+
+#: CRM/Mailing/Form/Subscribe.php
+msgid "Subscribe"
+msgstr ""
+
+#: CRM/Mailing/Form/Task/Print.php CRM/Mailing/Task.php
+msgid "Print Mailing Recipients"
+msgstr ""
+
+#: CRM/Mailing/Form/Unsubscribe.php
+msgid "%1 has already been unsubscribed."
+msgstr ""
+
+#: CRM/Mailing/Form/Unsubscribe.php
+msgid "Unsubscribe Confirmation"
+msgstr ""
+
+#: CRM/Mailing/Form/Unsubscribe.php
+msgid "%1 has been unsubscribed successfully."
+msgstr ""
+
+#: CRM/Mailing/Info.php
+msgid "CiviCRM Mailing Engine"
+msgstr ""
+
+#: CRM/Mailing/Info.php
+msgid "access CiviMail"
+msgstr ""
+
+#: CRM/Mailing/Info.php
+msgid "access CiviMail subscribe/unsubscribe pages"
+msgstr ""
+
+#: CRM/Mailing/Info.php
+msgid "Subscribe/unsubscribe from mailing list group"
+msgstr ""
+
+#: CRM/Mailing/Info.php
+msgid "delete in CiviMail"
+msgstr ""
+
+#: CRM/Mailing/Info.php
+msgid "view public CiviMail content"
+msgstr ""
+
+#: CRM/Mailing/Info.php
+msgid "create mailings"
+msgstr ""
+
+#: CRM/Mailing/Info.php
+msgid "schedule mailings"
+msgstr ""
+
+#: CRM/Mailing/Info.php
+msgid "approve mailings"
+msgstr ""
+
+#: CRM/Mailing/MailStore/Localdir.php
+msgid "%1 could not be parsed"
+msgstr ""
+
+#: CRM/Mailing/Page/Browse.php
+msgid "Find Mass SMS"
+msgstr ""
+
+#: CRM/Mailing/Page/Browse.php
+msgid "Search Mailings"
+msgstr ""
+
+#: CRM/Mailing/Page/Common.php
+msgid "There was an error in your request"
+msgstr ""
+
+#: CRM/Mailing/Page/Event.php CRM/Mailing/Page/Report.php
+msgid "Back to Activities"
+msgstr ""
+
+#: CRM/Mailing/Page/Event.php CRM/Mailing/Page/Report.php
+msgid "Back to Mailing"
+msgstr ""
+
+#: CRM/Mailing/Page/Event.php
+msgid "Back to Report"
+msgstr ""
+
+#: CRM/Mailing/Page/Report.php
+msgid "Back to Activity"
+msgstr ""
+
+#: CRM/Mailing/Page/Report.php
+msgid "Back to CiviMail"
+msgstr ""
+
+#: CRM/Mailing/Page/Report.php
+msgid "CiviMail Report: %1"
+msgstr ""
+
+#: CRM/Mailing/Page/Tab.php
+msgid "Mailings sent to %1"
+msgstr ""
+
+#: CRM/Mailing/PseudoConstant.php ext/civi_mail/ang/crmMailingAB/services.js
+msgid "Testing"
+msgstr ""
+
+#: CRM/Mailing/PseudoConstant.php
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+#: ext/civi_mail/ang/crmMailingAB/ReportCtrl.js
+#: ext/civi_mail/ang/crmMailingAB/services.js
+msgid "Final"
+msgstr ""
+
+#: CRM/Mailing/PseudoConstant.php ext/civi_mail/ang/crmMailingAB/services.js
+msgid "Test different \"Subject\" lines"
+msgstr ""
+
+#: CRM/Mailing/PseudoConstant.php ext/civi_mail/ang/crmMailingAB/services.js
+msgid "Test different \"From\" lines"
+msgstr ""
+
+#: CRM/Mailing/PseudoConstant.php ext/civi_mail/ang/crmMailingAB/services.js
+msgid "Test entirely different emails"
+msgstr ""
+
+#: CRM/Mailing/PseudoConstant.php
+msgid "Total Unique Clicks"
+msgstr ""
+
+#: CRM/Mailing/PseudoConstant.php
+msgid "Total Clicks on a particular link"
+msgstr ""
+
+#: CRM/Mailing/PseudoConstant.php
+msgid "Standalone"
+msgstr ""
+
+#: CRM/Mailing/PseudoConstant.php
+msgid "Experimental"
+msgstr ""
+
+#: CRM/Mailing/PseudoConstant.php
+msgid "Winner"
+msgstr ""
+
+#: CRM/Mailing/PseudoConstant.php
+msgid "Successful "
+msgstr ""
+
+#: CRM/Mailing/PseudoConstant.php
+msgid "Bounced "
+msgstr ""
+
+#: CRM/Mailing/PseudoConstant.php
+msgid "Opened "
+msgstr ""
+
+#: CRM/Mailing/PseudoConstant.php
+msgid "Unopened/Hidden "
+msgstr ""
+
+#: CRM/Mailing/PseudoConstant.php
+msgid "Clicked "
+msgstr ""
+
+#: CRM/Mailing/PseudoConstant.php
+msgid "Not Clicked "
+msgstr ""
+
+#: CRM/Mailing/PseudoConstant.php
+msgid "Replied "
+msgstr ""
+
+#: CRM/Mailing/PseudoConstant.php
+msgid "No Reply "
+msgstr ""
+
+#: CRM/Mailing/Selector/Browse.php
+msgid "Mailings %%StatusMessage%%"
+msgstr ""
+
+#: CRM/Mailing/Selector/Browse.php
+msgid "Sent By"
+msgstr ""
+
+#: CRM/Mailing/Selector/Browse.php
+msgid "Approve/Reject"
+msgstr ""
+
+#: CRM/Mailing/Selector/Browse.php
+msgid "Continue Mailing"
+msgstr ""
+
+#: CRM/Mailing/Selector/Browse.php
+msgid "Copy Mailing"
+msgstr ""
+
+#: CRM/Mailing/Selector/Browse.php
+msgid "Archive"
+msgstr ""
+
+#: CRM/Mailing/Selector/Browse.php
+msgid "Resume"
+msgstr ""
+
+#: CRM/Mailing/Selector/Browse.php
+msgid "Resume mailing"
+msgstr ""
+
+#: CRM/Mailing/Selector/Browse.php
+msgid "Pause"
+msgstr ""
+
+#: CRM/Mailing/Selector/Browse.php
+msgid "Pause mailing"
+msgstr ""
+
+#: CRM/Mailing/Selector/Browse.php
+msgid "Continue SMS"
+msgstr ""
+
+#: CRM/Mailing/Selector/Browse.php
+msgid "Copy SMS"
+msgstr ""
+
+#: CRM/Mailing/Selector/Browse.php
+msgid "View SMS Report"
+msgstr ""
+
+#: CRM/Mailing/Selector/Browse.php
+msgid "Public View"
+msgstr ""
+
+#: CRM/Mailing/Selector/Browse.php
+msgid "CiviMail Mailings"
+msgstr ""
+
+#: CRM/Mailing/Selector/Event.php
+msgid "%1 %%StatusMessage%%"
+msgstr ""
+
+#: CRM/Mailing/Selector/Event.php
+msgid "Internal Contact ID"
+msgstr ""
+
+#: CRM/Mailing/Selector/Event.php ext/civi_mail/ang/crmMailing/services.js
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Successful Deliveries"
+msgstr ""
+
+#: CRM/Mailing/Selector/Event.php ext/civi_mail/ang/crmMailing/services.js
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Bounces"
+msgstr ""
+
+#: CRM/Mailing/Selector/Event.php
+msgid "Unique Replies"
+msgstr ""
+
+#: CRM/Mailing/Selector/Event.php ext/civi_mail/ang/crmMailing/services.js
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Replies"
+msgstr ""
+
+#: CRM/Mailing/Selector/Event.php
+msgid "Unique Click-throughs"
+msgstr ""
+
+#: CRM/Mailing/Selector/Event.php templates/CRM/Mailing/Page/Report.tpl
+msgid "Click-throughs"
+msgstr ""
+
+#: CRM/Mailing/Selector/Event.php
+msgid "Unique Tracked Opens"
+msgstr ""
+
+#: CRM/Mailing/Selector/Event.php
+msgid "Total Tracked Opens"
+msgstr ""
+
+#: CRM/Mailing/Selector/Search.php
+#: schema/Mailing/MailingEventQueue.entityType.php
+#: schema/Mailing/MailingRecipients.entityType.php
+msgid "Mailing Recipient"
+msgstr ""
+
+#: CRM/Mailing/Selector/Search.php templates/CRM/Mailing/Form/Task/Print.tpl
+msgid "Completed Date"
+msgstr ""
+
+#: CRM/Mailing/Selector/Search.php
+msgid "CiviCRM Mailing Search"
+msgstr ""
+
+#: CRM/Mailing/Service/ListUnsubscribe.php
+msgid "Mailto"
+msgstr ""
+
+#: CRM/Mailing/Service/ListUnsubscribe.php
+msgid "HTTP(S) Web-Form"
+msgstr ""
+
+#: CRM/Mailing/Service/ListUnsubscribe.php
+msgid "HTTP(S) One-Click"
+msgstr ""
+
+#: CRM/Mailing/Tokens.php
+msgid "Mailing Key"
+msgstr ""
+
+#: CRM/Mailing/Tokens.php
+msgid "Mailing Group(s)"
+msgstr ""
+
+#: CRM/Mailing/Tokens.php
+msgid "Mailing URL (View)"
+msgstr ""
+
+#: CRM/Mailing/Tokens.php
+msgid "Mailing URL (Edit)"
+msgstr ""
+
+#: CRM/Mailing/Tokens.php
+msgid "Mailing URL (Schedule)"
+msgstr ""
+
+#: CRM/Mailing/Tokens.php
+msgid "Mailing HTML"
+msgstr ""
+
+#: CRM/Mailing/Tokens.php
+msgid "Mailing Approval Status"
+msgstr ""
+
+#: CRM/Mailing/Tokens.php
+msgid "Mailing Approval Note"
+msgstr ""
+
+#: CRM/Mailing/Tokens.php
+msgid "Mailing Approval URL"
+msgstr ""
+
+#: CRM/Mailing/Tokens.php
+msgid "Mailing Creator (Name)"
+msgstr ""
+
+#: CRM/Mailing/Tokens.php
+msgid "Mailing Creator (Email)"
+msgstr ""
+
+#: ext/civi_mail/Civi/Api4/Action/MailSettings/TestConnection.php
+msgid "Failed to connect"
+msgstr ""
+
+#: ext/civi_mail/Civi/Api4/Action/MailSettings/TestConnection.php
+msgid "(See log for more details.)"
+msgstr ""
+
+#: ext/civi_mail/Civi/Api4/Action/MailSettings/TestConnection.php
+msgid "The mail service was not instantiated."
+msgstr ""
+
+#: ext/civi_mail/Civi/Api4/Action/MailSettings/TestConnection.php
+msgid "Failed to read test message"
+msgstr ""
+
+#: ext/civi_mail/Civi/Api4/Action/MailSettings/TestConnection.php
+msgid "Connection succeeded."
+msgstr ""
+
+#: ext/civi_mail/Civi/Api4/Action/MailSettings/TestConnection.php
+msgid "No new messages found."
+msgstr ""
+
+#: ext/civi_mail/Civi/Api4/Action/MailSettings/TestConnection.php
+msgid "Found at least %1 new messages."
+msgstr ""
+
+#: ext/civi_mail/Civi/Api4/Action/Mailing/ProcessQueue.php
+msgid "CiviCRM Mailing Events Queue"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockApprove.html
+msgid "Unreviewed"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockMailing.html
+#: ext/civi_mail/ang/crmMailing/EmailAddrCtrl.js
+#: ext/civi_mail/ang/crmMailingAB/BlockMailing.html
+msgid "Reply-To"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockMailing.html
+msgid "Unsubscribe Group"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockMailing.html
+msgid "- choose language -"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockPreview.html
+msgid "No content to preview"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockPreview.html
+msgid "Preview as HTML"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockPreview.html
+msgid "Preview as Plain Text"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockPreview.html
+msgid "Send test email to:"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockPreview.html
+msgid "Test Email"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockPreview.html
+msgid "Send test message to %1"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockPreview.html
+msgid "Send test"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockPreview.html
+msgid "Send test email to group:"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockPreview.html
+msgid "Send test message to group"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockPreview.js
+#: ext/civi_mail/ang/crmMailing/BlockReview.js
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl.js
+#: ext/civi_mail/ang/crmMailing/EditRecipCtrl.js
+#: ext/civi_mail/ang/crmMailing/EditRecipOptionsDialogCtrl.js
+#: ext/civi_mail/ang/crmMailing/EmailAddrCtrl.js
+#: ext/civi_mail/ang/crmMailing/EmailBodyCtrl.js
+#: ext/civi_mail/ang/crmMailing/MsgTemplateCtrl.js
+#: ext/civi_mail/ang/crmMailing/PreviewComponentCtrl.js
+#: ext/civi_mail/ang/crmMailing/PreviewComponentDialogCtrl.js
+#: ext/civi_mail/ang/crmMailing/PreviewMailingDialogCtrl.js
+#: ext/civi_mail/ang/crmMailing/PreviewRecipCtrl.js
+#: ext/civi_mail/ang/crmMailing/SaveMsgTemplateDialogCtrl.js
+#: ext/civi_mail/ang/crmMailing/services.js
+#: ext/civi_mail/ang/crmMailingAB/BlockMailing.js
+#: ext/civi_mail/ang/crmMailingAB/BlockSetup.js
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl.js
+#: ext/civi_mail/ang/crmMailingAB/ListCtrl.js
+#: ext/civi_mail/ang/crmMailingAB/ReportCtrl.js
+#: ext/civi_mail/ang/crmMailingAB/Slider.js
+#: ext/civi_mail/ang/crmMailingAB/WinnerDialogCtrl.js
+msgid "civi_mail"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockPreview.js
+msgid "Send to %1"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockPreview.js
+msgid "A test message will be sent to %1 people:"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockPreview.js
+msgid "None of the contacts in this group have an email address."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockPreview.js
+msgid "Group is empty."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockPublication.html
+#: schema/Mailing/Mailing.entityType.php
+msgid "Mailing Visibility"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockRecipients.html
+#: ext/civi_mail/ang/crmMailing/BlockRecipientsMultiline.html
+msgid "Edit Recipient Options"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockRecipients.html
+#: ext/civi_mail/ang/crmMailing/BlockRecipientsMultiline.html
+msgid "Click to refresh recipient count"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockRecipients.html
+#: ext/civi_mail/ang/crmMailing/BlockRecipientsMultiline.html
+msgid "Preview a List of Recipients"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockResponses.html
+#: ext/civi_mail/ang/crmMailing/BlockReview.html
+#: ext/civi_mail/ang/crmMailing/EmailAddrCtrl.js
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Track Replies"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockResponses.html
+#: ext/civi_mail/ang/crmMailing/BlockReview.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+#: schema/Mailing/Mailing.entityType.php
+msgid "Forward Replies"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockResponses.html
+msgid "Auto-Respond to Replies"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockResponses.html
+msgid "Auto-Respond Message"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockResponses.html
+msgid "One-Click Unsubscribe Mode"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockReview.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Include:"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockReview.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Exclude:"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockReview.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/wizard.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/workflow.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Content"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockReview.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/2step.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/unified.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/unified2.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/wizard.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/workflow.html
+#: ext/civi_mail/ang/crmMailing/PreviewComponentDialogCtrl.html
+#: ext/civi_mail/ang/crmMailing/PreviewMgr/full.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/edit.html
+msgid "Plain Text"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockReview.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/2step.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/unified.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/unified2.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/wizard.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/workflow.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Tracking"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockReview.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Click-Throughs"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockReview.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Opens"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockReview.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Responding"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockReview.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Auto-Respond"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockReview.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/2step.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/unified.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/unified2.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/wizard.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/workflow.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/edit.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Publication"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockSummary.html
+#: ext/civi_mail/ang/crmMailingAB/BlockSetup.html
+msgid "Select Campaign"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockTemplates.html
+#: ext/civi_mail/ang/crmMailingAB/BlockMailing.html
+msgid "Save As"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockTracking.html
+msgid "Track Click-Throughs"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockTracking.html
+msgid "Track Opens"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BodyHtml.html
+#: ext/civi_mail/ang/crmMailing/BodyText.html
+msgid "Required tokens are missing."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/2step.html
+msgid "Define Mailing"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/2step.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/unified.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/unified2.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/wizard.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/workflow.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/edit.html
+msgid "Header and Footer"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/2step.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/unified.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/unified2.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/wizard.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/workflow.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/edit.html
+msgid "Responses"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/2step.html
+msgid "Review and Schedule"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/2step.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/unified.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/unified2.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/wizard.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/workflow.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/edit.html
+msgid "Submit Mailing"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/2step.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/unified.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/unified2.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/wizard.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/workflow.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/edit.html
+msgid "Delete Draft"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/2step.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/unified.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/unified2.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/wizard.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/workflow.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/edit.html
+msgid "Are you sure you want to permanently delete this mailing?"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/2step.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/unified.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/unified2.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/wizard.html
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/workflow.html
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/edit.html
+msgid "Save Draft"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/base.html
+msgid "This mailing has been submitted."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/workflow.html
+msgid "Approval"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl/workflow.html
+msgid "Submit and Approve Mailing"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl.js
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl.js
+#: ext/civi_mail/ang/crmMailingAB/WinnerDialogCtrl.js
+msgid "Submitting..."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditMailingCtrl.js
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl.js
+#: ext/civi_mail/ang/crmMailingAB/WinnerDialogCtrl.js
+msgid "Submitted"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditRecipCtrl.js
+msgid "Estimating..."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditRecipCtrl.js
+msgid "Estimate recipient count"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditRecipCtrl.js
+msgid "Refresh recipient count"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditRecipCtrl.js
+msgid "No Recipients"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditRecipCtrl.js
+msgid "~%1 recipients"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditRecipCtrl.js
+msgid "(unknown)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditRecipCtrl.js
+msgid "Preview (%1)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditRecipCtrl.js
+#: ext/civi_mail/ang/crmMailing/services.js
+msgid "Previewing..."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditRecipOptionsDialogCtrl.html
+msgid "Dedupe by email"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EditRecipOptionsDialogCtrl.html
+msgid "Selection Method"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EmailAddrCtrl.js
+msgid "Conflict"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EmailAddrCtrl.js
+msgid ""
+"The \"%1\" option conflicts with the \"%2\" option. The \"%2\" option has "
+"been disabled."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EmailBodyCtrl/tokenAlert.html
+msgid ""
+"The mailing must include the street address of the organization. Please "
+"insert the %1 token."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EmailBodyCtrl/tokenAlert.html
+msgid ""
+"The mailing must allow recipients to (a) unsubscribe from the mailing-list "
+"or (b) completely opt-out from all mailings. Please insert an unsubscribe or "
+"opt-out token."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EmailBodyCtrl/tokenAlert.html
+msgid "Via Web"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EmailBodyCtrl/tokenAlert.html
+msgid "Via Email"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EmailBodyCtrl/tokenAlert.html
+msgid ""
+"Alternatively, you may select a header or footer which includes the required "
+"tokens."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/EmailBodyCtrl.js
+msgid "Required tokens"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/PreviewComponentCtrl.js
+msgid "Invalid component ID (%1)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/PreviewRecipCtrl.html
+msgid ""
+"Based on current data, approximately %1 contacts will receive a copy of the "
+"mailing."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/PreviewRecipCtrl.html
+msgid "Below is a sample of the first %1 recipients."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/PreviewRecipCtrl.html
+msgid ""
+"If individual contacts are separately modified, added, or removed, then the "
+"final list may change."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/PreviewRecipCtrl.html
+msgid "No recipients"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/RadioDate.js
+msgid "The scheduled date and time is in the past"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/SaveMsgTemplateDialogCtrl.html
+msgid "Save the current mailing as a template."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/SaveMsgTemplateDialogCtrl.html
+msgid "Update \"%1\""
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/SaveMsgTemplateDialogCtrl.html
+msgid "Save as:"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/crmMailingRecipientsAutocomplete.component.js
+msgid "Include Groups & Mailings"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/crmMailingRecipientsAutocomplete.component.js
+msgid "Exclude Groups & Mailings"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/crmMailingRecipientsAutocomplete.component.js
+msgid "Include recipients from groups and past mailings."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/crmMailingRecipientsAutocomplete.component.js
+msgid "Exclude recipients from groups and past mailings."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/services.js
+msgid "Subject: %1"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/services.js
+msgid ""
+"Could not identify any recipients. Perhaps your test group is empty, all "
+"contacts are set to deceased/opt out/do_not_email, or you tried sending to "
+"contacts that do not exist and you have no permission to add contacts. "
+"Alternatively perhaps your mailing backend returned a fatal error."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/services.js
+msgid "Sending..."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/services.js
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Mailings Sent"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/services.js
+msgid "Unsubscribes & Opt-outs"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/services.js
+msgid "Opt-Outs"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing.js ext/civi_mail/ang/crmMailingAB.js
+msgid "Initializing..."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/BlockMailing.html
+msgid "Template (A)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/BlockMailing.html
+msgid "Template (B)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/BlockMailing.html
+msgid "From (A)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/BlockMailing.html
+msgid "From (B)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/BlockMailing.html
+msgid "Reply-To (A)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/BlockMailing.html
+msgid "Reply-To (B)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/BlockMailing.html
+msgid "Subject (A)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/BlockMailing.html
+msgid "Subject (B)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/BlockSetup.html
+msgid ""
+"A/B testing allows you to send two test mailings to a random subset of your "
+"recipients. After collecting and comparing metrics, the more successful "
+"mailing will be sent to the remaining recipients."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/BlockSetup.html
+#: ext/civi_mail/ang/crmMailingAB/ListCtrl.html
+msgid "Test Type"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/BlockSetup.html
+msgid "Distribution"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/BlockSetup.html
+msgid "Send"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/BlockSetup.html
+msgid "Send A/B test immediately"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/BlockSetup.html
+msgid "Send A/B test at:"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/BlockSetup.html
+msgid "Assess"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/BlockSetup.html
+msgid "Assess A/B results on an on-going basis"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/BlockSetup.html
+msgid "Assess A/B test at:"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/edit.html
+msgid "Setup"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/edit.html
+msgid "Target"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/edit.html
+msgid "Compose"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/edit.html
+msgid "Preview (A)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/edit.html
+msgid "Preview (B)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/edit.html
+msgid "Compose (A)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/edit.html
+msgid "Compose (B)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "A/B Test Results"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid ""
+"This report displays the current results for your A/B test. You can return "
+"to this page to view the latest statistics by navigating to \"Manage A/B "
+"Tests\" and clicking \"Results\"."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Select as Final"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Delivery"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Not selected"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Started at"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Not started"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Completed at"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Not completed"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Search for contacts using '%1'"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Browse events of type '%1'"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Reports for '%1'"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Opens (WIP)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl/report.html
+msgid "Total Clicks (WIP)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl.js
+msgid "Test A (%1)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl.js
+msgid "Test B (%1)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl.js
+msgid "Final (%1)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/EditCtrl.js
+msgid "Select Final Mailing (Test %1)"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/ListCtrl.html
+msgid "- Status -"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/ListCtrl.html
+msgid "- Test Type -"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/ListCtrl.html
+msgid "You have no A/B mailings"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/ListCtrl.html
+msgid "New A/B Test"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/ReportCtrl.js
+#: ext/civi_mail/ang/crmMailingAB/WinnerDialogCtrl.js
+msgid "Mailing A"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/ReportCtrl.js
+#: ext/civi_mail/ang/crmMailingAB/WinnerDialogCtrl.js
+msgid "Mailing B"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/Slider.html
+msgid "Test Mailing A"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/Slider.html
+msgid "Test Mailing B"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/Slider.html
+msgid "Final Mailing"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/WinnerDialogCtrl.html
+msgid ""
+"After selecting %1 as the winner, one must schedule the delivery for the "
+"final mailing."
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/WinnerDialogCtrl.html
+msgid "Send final mailing immediately"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/WinnerDialogCtrl.html
+msgid "Send final mailing at:"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailingAB/WinnerDialogCtrl.js
+msgid "Submit final mailing"
+msgstr ""
+
+#: ext/civi_mail/managed/SavedSearch_Email_Bounce_History.mgd.php
+msgid "Email_Bounce_History"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Enable Double Opt-in for Profile Group(s) field"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"When CiviMail is enabled, users who \"subscribe\" to a group from a profile "
+"Group(s) checkbox will receive a confirmation email. They must respond (opt-"
+"in) before they are added to the group."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "No-Reply Address"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"Specify an Email From Address to use when the system sends an email but a "
+"reply is not expected, for example when a user is sent an email for a double "
+"opt-in."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"Leaving this blank will use the default which will be do-not-"
+"reply@default_domain where the default_domain will be the email domain "
+"address of your default mailing account also used for bounce handling."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Track replies using VERP in Reply-To header"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"If checked, mailings will default to tracking replies using VERP-ed Reply-To."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Enable workflow support for CiviMail"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"Drupal-only. Rules module must be enabled (beta feature - use with caution)."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Enable global server wide lock for CiviMail"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Unsubscribe Methods"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"These methods will be offered to email clients for semi-automated "
+"unsubscribes. Support for each depends on the recipient's email client."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Enable Custom Reply-To"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Allow CiviMail users to send mailings with a custom Reply-To header."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"Enable Double Opt-in for Profiles which use the \"Add to Group\" setting"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"When CiviMail is enabled and a profile uses the \"Add to Group\" setting, "
+"users who complete the profile form will receive a confirmation email. They "
+"must respond (opt-in) before they are added to the group."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Disable check for mandatory tokens"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"Don't check for presence of mandatory tokens (domain address; unsubscribe/"
+"opt-out) before sending mailings. WARNING: Mandatory tokens are a safe-guard "
+"which facilitate compliance with the US CAN-SPAM Act. They should only be "
+"disabled if your organization adopts other mechanisms for compliance or if "
+"your organization is not subject to CAN-SPAM."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "CiviMail dedupes e-mail addresses by default"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"Set the \"dedupe e-mail\" option when sending a new mailing to \"true\" by "
+"default."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Hashed Mailing URL's"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"If enabled, a randomized hash key will be used to reference the mailing URL "
+"in the mailing.viewUrl token, instead of the mailing ID."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Enable multiple bulk email address for a contact."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"CiviMail will deliver a copy of the email to each bulk email listed for the "
+"contact. Enabling this setting will also change the options for the \"Email "
+"on Hold\" field in Advanced Search."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Enable CiviMail to generate Message-ID header"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Mailer Batch Limit"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"Throttle email delivery by setting the maximum number of emails sent during "
+"each CiviMail run (0 = unlimited)."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Mailer Job Size"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"If you want to utilize multi-threading enter the size you want your sub jobs "
+"to be split into. Recommended values are between 1,000 and 10,000. Use a "
+"lower value if your server has multiple cron jobs running simultaneously, "
+"but do not use values smaller than 1,000. Enter \"0\" to disable multi-"
+"threading and process mail as one single job - batch limits still apply."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Mailer Cron Job Limit"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"The maximum number of mailer delivery jobs executing simultaneously (0 = "
+"allow as many processes to execute as started by cron)."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Mailer Throttle Time"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"The time to sleep in between each e-mail in micro seconds. Setting this "
+"above 0 allows you to control the rate at which e-mail messages are sent to "
+"the mail server, avoiding filling up the mail queue very quickly. Set to 0 "
+"to disable."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Enable CiviMail to create activities on delivery"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Enable automatic CiviMail recipient count display"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"Enable this setting to rebuild recipient list automatically during composing "
+"mail. Disable will allow you to rebuild recipient manually."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"CiviMail automatically fetches recipient list and count whenever mailing "
+"groups are included or excluded while composing bulk mail. This phenomena "
+"may degrade performance for large sites, so disable this setting to build "
+"and fetch recipients for selected groups, manually."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Enable click-through tracking by default"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"If checked, mailings will have click-through tracking enabled by default."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Enable open tracking by default"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "If checked, mailings will have open tracking enabled by default."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Database Update Frequency"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"CiviMail records email sent at the frequency you specify. If you set it to "
+"1, it will update the database every time it sends an email. This ensures "
+"that emails are not resent if the batch job fails, but this may cause a "
+"performance hit, particularly for large jobs."
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid "Default One Click Unsubscribe Mode"
+msgstr ""
+
+#: ext/civi_mail/settings/Mailing.setting.php
+msgid ""
+"This sets the default One Click unsubscribe mode for any new mailings created"
+msgstr ""
+
+#: schema/Mailing/BouncePattern.entityType.php
+msgid "Bounce Pattern"
+msgstr ""
+
+#: schema/Mailing/BouncePattern.entityType.php
+msgid "Bounce Patterns"
+msgstr ""
+
+#: schema/Mailing/BouncePattern.entityType.php
+msgid "Pseudo-constant table of patterns for bounce classification"
+msgstr ""
+
+#: schema/Mailing/BouncePattern.entityType.php
+msgid "Bounce Pattern ID"
+msgstr ""
+
+#: schema/Mailing/BouncePattern.entityType.php
+#: schema/Mailing/BounceType.entityType.php
+#: schema/Mailing/MailingEventBounce.entityType.php
+msgid "Bounce Type ID"
+msgstr ""
+
+#: schema/Mailing/BouncePattern.entityType.php
+#: schema/Mailing/BounceType.entityType.php
+msgid "Type of bounce"
+msgstr ""
+
+#: schema/Mailing/BouncePattern.entityType.php
+msgid "Pattern"
+msgstr ""
+
+#: schema/Mailing/BouncePattern.entityType.php
+msgid "A regexp to match a message to a bounce type"
+msgstr ""
+
+#: schema/Mailing/BounceType.entityType.php
+msgid "Table to index the various bounce types and their properties"
+msgstr ""
+
+#: schema/Mailing/BounceType.entityType.php
+msgid "Bounce Type Name"
+msgstr ""
+
+#: schema/Mailing/BounceType.entityType.php
+msgid "Bounce Type Description"
+msgstr ""
+
+#: schema/Mailing/BounceType.entityType.php
+msgid "A description of this bounce type"
+msgstr ""
+
+#: schema/Mailing/BounceType.entityType.php
+msgid "Hold Threshold"
+msgstr ""
+
+#: schema/Mailing/BounceType.entityType.php
+msgid ""
+"Number of bounces of this type required before the email address is put on "
+"bounce hold"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Mass emails sent from CiviMail."
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+#: schema/Mailing/MailingAB.entityType.php
+msgid "Which site is this mailing for"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Header ID"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "FK to the header component."
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Footer ID"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "FK to the footer component."
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+#: schema/Mailing/MailingEventReply.entityType.php
+msgid "Reply ID"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "FK to the auto-responder component."
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+#: schema/Mailing/MailingEventUnsubscribe.entityType.php
+msgid "Unsubscribe ID"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "FK to the unsubscribe component."
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Mailing Resubscribe"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Opt Out ID"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "FK to the opt-out component."
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Mailing Type"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid ""
+"differentiate between standalone mailings, A/B tests, and A/B final-winner"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Mailing From Name"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "From Header of mailing"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Mailing From Email"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "From Email of mailing"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Replyto Email"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Reply-To Email of mailing"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Reply-To Email"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Template Type"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "The language/processing system used for email templates."
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Template Options (JSON)"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Advanced options used by the email templating system. (JSON encoded)"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+#: schema/Mailing/MailingComponent.entityType.php
+#: templates/CRM/Mailing/Page/Component.tpl
+msgid "Body Text"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Body Html"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+#: templates/CRM/Mailing/Page/Component.tpl
+msgid "Body HTML"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Url Tracking"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Should we track URL click-throughs for this mailing?"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Should we forward replies back to the author?"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Auto Responder"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Should we enable the auto-responder?"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Track Mailing?"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Should we track when recipients open/read this mailing?"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Mailing Completed"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Has at least one job associated with this mailing finished?"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Override Verp"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Overwrite the VERP address in Reply-To"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Overwrite VERP"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "FK to Contact ID who first created this mailing"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Creator"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Mailing Created Date"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Date and time this mailing was created."
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid ""
+"When the mailing (or closely related entity) was created or modified or "
+"deleted."
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Scheduled By Contact ID"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "FK to Contact ID who scheduled this mailing"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Scheduled By"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+#: schema/Mailing/MailingJob.entityType.php
+msgid "Mailing Scheduled Date"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Date and time this mailing was scheduled."
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Mailing Start Date"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "When the mailing started to go out"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Mailing End Date"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "When the mailing finished going out."
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "The status of this mailing"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Approved By Contact ID"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "FK to Contact ID who approved this mailing"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Approved By"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Mailing Approved Date"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Date and time this mailing was approved."
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "The status of this mailing. Values: none, approved, rejected"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Approval Note"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Note behind the decision."
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Archived Mailing"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Is this mailing archived?"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "In what context(s) is the mailing contents visible (online viewing)"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "The campaign for which this mailing has been initiated."
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "No Duplicate emails?"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Remove duplicate emails?"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Mailing Hash"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Key for validating requests related to this mailing."
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "With email_selection_method, determines which email address to use"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Email Selection Method"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid ""
+"With location_type_id, determine how to choose the email address to use."
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Mailing Language"
+msgstr ""
+
+#: schema/Mailing/Mailing.entityType.php
+msgid "Language of the content of the mailing. Useful for tokens."
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "Mailing AB"
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "Mailing ABs"
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "Stores information about abtesting"
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "MailingAB ID"
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "Name of the A/B test"
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "Mailing ID (A)"
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "The first experimental mailing (\"A\" condition)"
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "Mailing ID (B)"
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "The second experimental mailing (\"B\" condition)"
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "Mailing ID (C)"
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "The final, general mailing (derived from A or B)"
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "Testing Criteria"
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "Winner Criteria"
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "URL for Winner Criteria"
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "What specific url to track"
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "Declaration Time"
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "In how much time to declare winner"
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "Group Percentage"
+msgstr ""
+
+#: schema/Mailing/MailingAB.entityType.php
+msgid "AB Test Created Date"
+msgstr ""
+
+#: schema/Mailing/MailingComponent.entityType.php
+msgid "Mailing Component"
+msgstr ""
+
+#: schema/Mailing/MailingComponent.entityType.php
+msgid "Mailing Components"
+msgstr ""
+
+#: schema/Mailing/MailingComponent.entityType.php
+msgid "Stores information about the mailing components (header/footer)."
+msgstr ""
+
+#: schema/Mailing/MailingComponent.entityType.php
+msgid "Mailing Component ID"
+msgstr ""
+
+#: schema/Mailing/MailingComponent.entityType.php
+msgid "Component Name"
+msgstr ""
+
+#: schema/Mailing/MailingComponent.entityType.php
+msgid "The name of this component"
+msgstr ""
+
+#: schema/Mailing/MailingComponent.entityType.php
+msgid "Mailing Component Type"
+msgstr ""
+
+#: schema/Mailing/MailingComponent.entityType.php
+msgid "Type of Component."
+msgstr ""
+
+#: schema/Mailing/MailingComponent.entityType.php
+msgid "Mailing Component Body HTML"
+msgstr ""
+
+#: schema/Mailing/MailingComponent.entityType.php
+msgid "Body of the component in html format."
+msgstr ""
+
+#: schema/Mailing/MailingComponent.entityType.php
+msgid "Body of the component in text format."
+msgstr ""
+
+#: schema/Mailing/MailingComponent.entityType.php
+msgid "Mailing Component is Default?"
+msgstr ""
+
+#: schema/Mailing/MailingComponent.entityType.php
+msgid "Is this the default component for this component_type?"
+msgstr ""
+
+#: schema/Mailing/MailingComponent.entityType.php
+msgid "Mailing Component Is Active?"
+msgstr ""
+
+#: schema/Mailing/MailingEventBounce.entityType.php
+msgid "Mailing Bounce"
+msgstr ""
+
+#: schema/Mailing/MailingEventBounce.entityType.php
+msgid "Mailing Bounces"
+msgstr ""
+
+#: schema/Mailing/MailingEventBounce.entityType.php
+msgid "Mailings that failed to reach the inbox of the recipient."
+msgstr ""
+
+#: schema/Mailing/MailingEventBounce.entityType.php
+msgid "Bounce ID"
+msgstr ""
+
+#: schema/Mailing/MailingEventBounce.entityType.php
+#: schema/Mailing/MailingEventDelivered.entityType.php
+#: schema/Mailing/MailingEventOpened.entityType.php
+#: schema/Mailing/MailingEventReply.entityType.php
+#: schema/Mailing/MailingEventTrackableURLOpen.entityType.php
+#: schema/Mailing/MailingEventUnsubscribe.entityType.php
+msgid "FK to EventQueue"
+msgstr ""
+
+#: schema/Mailing/MailingEventBounce.entityType.php
+msgid "What type of bounce was it?"
+msgstr ""
+
+#: schema/Mailing/MailingEventBounce.entityType.php
+#: schema/Mailing/MailingEventDelivered.entityType.php
+#: schema/Mailing/MailingEventOpened.entityType.php
+#: schema/Mailing/MailingEventTrackableURLOpen.entityType.php
+msgid "Timestamp"
+msgstr ""
+
+#: schema/Mailing/MailingEventBounce.entityType.php
+msgid "When this bounce event occurred."
+msgstr ""
+
+#: schema/Mailing/MailingEventConfirm.entityType.php
+msgid "Mailing Opt-In Confirmation"
+msgstr ""
+
+#: schema/Mailing/MailingEventConfirm.entityType.php
+msgid "Mailing Opt-In Confirmations"
+msgstr ""
+
+#: schema/Mailing/MailingEventConfirm.entityType.php
+msgid "Tracks when a subscription event is confirmed by email"
+msgstr ""
+
+#: schema/Mailing/MailingEventConfirm.entityType.php
+msgid "Mailing Confirmation ID"
+msgstr ""
+
+#: schema/Mailing/MailingEventConfirm.entityType.php
+#: schema/Mailing/MailingEventSubscribe.entityType.php
+msgid "Mailing Subscribe ID"
+msgstr ""
+
+#: schema/Mailing/MailingEventConfirm.entityType.php
+msgid "FK to civicrm_mailing_event_subscribe"
+msgstr ""
+
+#: schema/Mailing/MailingEventConfirm.entityType.php
+msgid "Mailing Subscribe"
+msgstr ""
+
+#: schema/Mailing/MailingEventConfirm.entityType.php
+msgid "Confirm Timestamp"
+msgstr ""
+
+#: schema/Mailing/MailingEventConfirm.entityType.php
+msgid "When this confirmation event occurred."
+msgstr ""
+
+#: schema/Mailing/MailingEventDelivered.entityType.php
+msgid "Mailing Deliveries"
+msgstr ""
+
+#: schema/Mailing/MailingEventDelivered.entityType.php
+msgid "Tracks when a queued email is actually delivered to the MTA"
+msgstr ""
+
+#: schema/Mailing/MailingEventDelivered.entityType.php
+msgid "Delivered ID"
+msgstr ""
+
+#: schema/Mailing/MailingEventDelivered.entityType.php
+#: schema/Mailing/MailingEventUnsubscribe.entityType.php
+msgid "When this delivery event occurred."
+msgstr ""
+
+#: schema/Mailing/MailingEventOpened.entityType.php
+msgid "Mailing Opened"
+msgstr ""
+
+#: schema/Mailing/MailingEventOpened.entityType.php
+msgid "Mailings Opened"
+msgstr ""
+
+#: schema/Mailing/MailingEventOpened.entityType.php
+msgid "Tracks when a delivered email is opened by the recipient"
+msgstr ""
+
+#: schema/Mailing/MailingEventOpened.entityType.php
+msgid "Mailing Opened ID"
+msgstr ""
+
+#: schema/Mailing/MailingEventOpened.entityType.php
+msgid "When this open event occurred."
+msgstr ""
+
+#: schema/Mailing/MailingEventQueue.entityType.php
+msgid "Intended recipients of a mailing."
+msgstr ""
+
+#: schema/Mailing/MailingEventQueue.entityType.php
+msgid "Mailing Event Queue ID"
+msgstr ""
+
+#: schema/Mailing/MailingEventQueue.entityType.php
+msgid "Mailing Job"
+msgstr ""
+
+#: schema/Mailing/MailingEventQueue.entityType.php
+msgid "Related mailing. Used for reporting on mailing success, if present."
+msgstr ""
+
+#: schema/Mailing/MailingEventQueue.entityType.php
+#: schema/Mailing/MailingRecipients.entityType.php
+msgid "FK to Email"
+msgstr ""
+
+#: schema/Mailing/MailingEventQueue.entityType.php
+#: schema/Mailing/MailingEventSubscribe.entityType.php
+#: schema/Mailing/MailingRecipients.entityType.php
+msgid "FK to Contact"
+msgstr ""
+
+#: schema/Mailing/MailingEventQueue.entityType.php
+msgid "Security Hash"
+msgstr ""
+
+#: schema/Mailing/MailingEventQueue.entityType.php
+#: schema/Mailing/MailingEventSubscribe.entityType.php
+msgid "Security hash"
+msgstr ""
+
+#: schema/Mailing/MailingEventQueue.entityType.php
+#: schema/Mailing/MailingRecipients.entityType.php
+msgid "FK to Phone"
+msgstr ""
+
+#: schema/Mailing/MailingEventReply.entityType.php
+msgid "Mailing Reply"
+msgstr ""
+
+#: schema/Mailing/MailingEventReply.entityType.php
+msgid "Mailing Replies"
+msgstr ""
+
+#: schema/Mailing/MailingEventReply.entityType.php
+msgid "Tracks when a contact replies to a mailing"
+msgstr ""
+
+#: schema/Mailing/MailingEventReply.entityType.php
+msgid "Reply Timestamp"
+msgstr ""
+
+#: schema/Mailing/MailingEventReply.entityType.php
+msgid "When this reply event occurred."
+msgstr ""
+
+#: schema/Mailing/MailingEventSubscribe.entityType.php
+msgid "Mailing Opt-In"
+msgstr ""
+
+#: schema/Mailing/MailingEventSubscribe.entityType.php
+msgid "Mailing Opt-Ins"
+msgstr ""
+
+#: schema/Mailing/MailingEventSubscribe.entityType.php
+msgid "Tracks when a (new) contact subscribes to a group by email"
+msgstr ""
+
+#: schema/Mailing/MailingEventSubscribe.entityType.php
+msgid "Mailing Subscribe Hash"
+msgstr ""
+
+#: schema/Mailing/MailingEventSubscribe.entityType.php
+msgid "Mailing Subscribe Timestamp"
+msgstr ""
+
+#: schema/Mailing/MailingEventSubscribe.entityType.php
+msgid "When this subscription event occurred."
+msgstr ""
+
+#: schema/Mailing/MailingEventTrackableURLOpen.entityType.php
+msgid "Mailing Link Clickthrough"
+msgstr ""
+
+#: schema/Mailing/MailingEventTrackableURLOpen.entityType.php
+msgid "Mailing Link Clickthroughs"
+msgstr ""
+
+#: schema/Mailing/MailingEventTrackableURLOpen.entityType.php
+msgid "Tracks when a TrackableURL is clicked by a recipient."
+msgstr ""
+
+#: schema/Mailing/MailingEventTrackableURLOpen.entityType.php
+msgid "Trackable URL Open ID"
+msgstr ""
+
+#: schema/Mailing/MailingEventTrackableURLOpen.entityType.php
+msgid "Trackable Url ID"
+msgstr ""
+
+#: schema/Mailing/MailingEventTrackableURLOpen.entityType.php
+msgid "FK to TrackableURL"
+msgstr ""
+
+#: schema/Mailing/MailingEventTrackableURLOpen.entityType.php
+#: schema/Mailing/MailingTrackableURL.entityType.php
+msgid "Mailing Link"
+msgstr ""
+
+#: schema/Mailing/MailingEventTrackableURLOpen.entityType.php
+msgid "When this trackable URL open occurred."
+msgstr ""
+
+#: schema/Mailing/MailingEventUnsubscribe.entityType.php
+msgid "Mailing Unsubscribe"
+msgstr ""
+
+#: schema/Mailing/MailingEventUnsubscribe.entityType.php
+msgid "Mailing Unsubscribes"
+msgstr ""
+
+#: schema/Mailing/MailingEventUnsubscribe.entityType.php
+msgid "Tracks when a recipient unsubscribes from a group/domain"
+msgstr ""
+
+#: schema/Mailing/MailingEventUnsubscribe.entityType.php
+msgid "Unsubscribe is for Organization?"
+msgstr ""
+
+#: schema/Mailing/MailingEventUnsubscribe.entityType.php
+msgid "Unsubscribe at org- or group-level"
+msgstr ""
+
+#: schema/Mailing/MailingEventUnsubscribe.entityType.php
+msgid "Unsubscribe Timestamp"
+msgstr ""
+
+#: schema/Mailing/MailingGroup.entityType.php
+msgid "Mailing Group"
+msgstr ""
+
+#: schema/Mailing/MailingGroup.entityType.php
+msgid "Mailing Groups"
+msgstr ""
+
+#: schema/Mailing/MailingGroup.entityType.php
+msgid "Stores information about the groups that participate in this mailing.."
+msgstr ""
+
+#: schema/Mailing/MailingGroup.entityType.php
+msgid "Mailing Group ID"
+msgstr ""
+
+#: schema/Mailing/MailingGroup.entityType.php
+msgid "The ID of a previous mailing to include/exclude recipients."
+msgstr ""
+
+#: schema/Mailing/MailingGroup.entityType.php
+msgid "Mailing Group Type"
+msgstr ""
+
+#: schema/Mailing/MailingGroup.entityType.php
+msgid "Are the members of the group included or excluded?."
+msgstr ""
+
+#: schema/Mailing/MailingGroup.entityType.php
+msgid "Mailing Group Entity Table"
+msgstr ""
+
+#: schema/Mailing/MailingGroup.entityType.php
+msgid "Mailing Group Entity"
+msgstr ""
+
+#: schema/Mailing/MailingGroup.entityType.php
+msgid "Mailing Group Search"
+msgstr ""
+
+#: schema/Mailing/MailingGroup.entityType.php
+msgid "The filtering search. custom search id or -1 for civicrm api search"
+msgstr ""
+
+#: schema/Mailing/MailingGroup.entityType.php
+msgid "Mailing Group Search Arguments"
+msgstr ""
+
+#: schema/Mailing/MailingGroup.entityType.php
+msgid "The arguments to be sent to the search function"
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "Outbound Mailings"
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "Attempted delivery of a mailing."
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "Mailing Job ID"
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+#: schema/Mailing/MailingRecipients.entityType.php
+msgid "The ID of the mailing this Job will send."
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "date on which this job was scheduled."
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "Mailing Job Start Date"
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "date on which this job was started."
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "Mailing Job End Date"
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "date on which this job ended."
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "The state of this job"
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "Mailing Job Is Test?"
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "Is this job for a test mail?"
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "Test Mailing"
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "Mailing Job Type"
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "Type of mailling job: null | child"
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "Parent job id"
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "Mailing Job Offset"
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "Offset of the child job"
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "Mailing Job Limit"
+msgstr ""
+
+#: schema/Mailing/MailingJob.entityType.php
+msgid "Queue size limit for each child job"
+msgstr ""
+
+#: schema/Mailing/MailingRecipients.entityType.php
+msgid "Stores information about the recipients of a mailing."
+msgstr ""
+
+#: schema/Mailing/MailingRecipients.entityType.php
+msgid "Mailing Recipients ID"
+msgstr ""
+
+#: schema/Mailing/MailingRecipients.entityType.php
+msgid "Recipient ID"
+msgstr ""
+
+#: schema/Mailing/MailingTrackableURL.entityType.php
+msgid "Mailing Links"
+msgstr ""
+
+#: schema/Mailing/MailingTrackableURL.entityType.php
+msgid "Stores URLs for which we should track click-throughs from mailings"
+msgstr ""
+
+#: schema/Mailing/MailingTrackableURL.entityType.php
+msgid "Trackable URL ID"
+msgstr ""
+
+#: schema/Mailing/MailingTrackableURL.entityType.php
+msgid "The URL to be tracked."
+msgstr ""
+
+#: schema/Mailing/MailingTrackableURL.entityType.php
+msgid "FK to the mailing"
+msgstr ""
+
+#: schema/Mailing/Spool.entityType.php
+msgid "Spool"
+msgstr ""
+
+#: schema/Mailing/Spool.entityType.php
+msgid "Spools"
+msgstr ""
+
+#: schema/Mailing/Spool.entityType.php
+msgid "Stores the outbond mails"
+msgstr ""
+
+#: schema/Mailing/Spool.entityType.php
+msgid "Spool ID"
+msgstr ""
+
+#: schema/Mailing/Spool.entityType.php
+msgid "The ID of the Job ."
+msgstr ""
+
+#: schema/Mailing/Spool.entityType.php
+msgid "Recipient Email"
+msgstr ""
+
+#: schema/Mailing/Spool.entityType.php
+msgid "The email of the recipients this mail is to be sent."
+msgstr ""
+
+#: schema/Mailing/Spool.entityType.php
+msgid "Headers"
+msgstr ""
+
+#: schema/Mailing/Spool.entityType.php
+msgid "The header information of this mailing ."
+msgstr ""
+
+#: schema/Mailing/Spool.entityType.php
+msgid "Body"
+msgstr ""
+
+#: schema/Mailing/Spool.entityType.php
+msgid "The body of this mailing."
+msgstr ""
+
+#: schema/Mailing/Spool.entityType.php
+msgid "date on which this job was added."
+msgstr ""
+
+#: schema/Mailing/Spool.entityType.php
+msgid "date on which this job was removed."
+msgstr ""
+
+#: schema/SMS/SmsProvider.entityType.php
+msgid "SMS Providers"
+msgstr ""
+
+#: schema/SMS/SmsProvider.entityType.php
+msgid "Table to add different sms providers"
+msgstr ""
+
+#: schema/SMS/SmsProvider.entityType.php
+msgid "SMS Provider Name"
+msgstr ""
+
+#: schema/SMS/SmsProvider.entityType.php
+msgid ""
+"Provider internal name points to option_value of option_group "
+"sms_provider_name"
+msgstr ""
+
+#: schema/SMS/SmsProvider.entityType.php
+msgid "SMS Provider Title"
+msgstr ""
+
+#: schema/SMS/SmsProvider.entityType.php
+msgid "Provider name visible to user"
+msgstr ""
+
+#: schema/SMS/SmsProvider.entityType.php
+msgid "SMS Provider Username"
+msgstr ""
+
+#: schema/SMS/SmsProvider.entityType.php
+msgid "SMS Provider Password"
+msgstr ""
+
+#: schema/SMS/SmsProvider.entityType.php
+msgid "SMS Provider API"
+msgstr ""
+
+#: schema/SMS/SmsProvider.entityType.php
+msgid "points to value in civicrm_option_value for group sms_api_type"
+msgstr ""
+
+#: schema/SMS/SmsProvider.entityType.php
+msgid "SMS Provider API URL"
+msgstr ""
+
+#: schema/SMS/SmsProvider.entityType.php
+msgid "SMS Provider API Params"
+msgstr ""
+
+#: schema/SMS/SmsProvider.entityType.php
+msgid "the api params in xml, http or smtp format"
+msgstr ""
+
+#: schema/SMS/SmsProvider.entityType.php
+msgid "SMS Provider is Default?"
+msgstr ""
+
+#: schema/SMS/SmsProvider.entityType.php
+msgid "SMS Provider is Active?"
+msgstr ""
+
+#: schema/SMS/SmsProvider.entityType.php
+msgid "Which Domain is this sms provider for"
+msgstr ""
+
+#: templates/CRM/Mailing/Form/Approve.tpl
+msgid "Preview Mailing"
+msgstr ""
+
+#: templates/CRM/Mailing/Form/Approve.tpl
+msgid "Subject:"
+msgstr ""
+
+#: templates/CRM/Mailing/Form/Approve.tpl
+msgid "Attachment(s):"
+msgstr ""
+
+#: templates/CRM/Mailing/Form/Approve.tpl
+msgid "Mailing HTML:"
+msgstr ""
+
+#: templates/CRM/Mailing/Form/Approve.tpl
+msgid "Mailing Text:"
+msgstr ""
+
+#: templates/CRM/Mailing/Form/Component.tpl
+msgid "New Mailing Component"
+msgstr ""
+
+#: templates/CRM/Mailing/Form/Component.tpl
+msgid "Edit Mailing Component"
+msgstr ""
+
+#: templates/CRM/Mailing/Form/Count.tpl
+msgid "Total Recipients:"
+msgstr ""
+
+#: templates/CRM/Mailing/Form/Count.tpl
+msgid "Contacts selected in the Find Contacts page"
+msgstr ""
+
+#: templates/CRM/Mailing/Form/Optout.tpl
+msgid ""
+"You are requesting to opt out this email address from all mailing lists:"
+msgstr ""
+
+#: templates/CRM/Mailing/Form/Optout.tpl
+msgid ""
+"If this is your email address and you <strong>wish to opt out</strong> "
+"please click the <strong>Opt Out</strong> button to confirm."
+msgstr ""
+
+#: templates/CRM/Mailing/Form/Search.tpl
+msgid "SMS Status"
+msgstr ""
+
+#: templates/CRM/Mailing/Form/Subscribe.tpl
+msgid ""
+"Enter your email address and click <strong>Subscribe</strong>. You will "
+"receive a confirmation request via email shortly. Your subscription will be "
+"activated after you respond to that email."
+msgstr ""
+
+#: templates/CRM/Mailing/Form/Subscribe.tpl
+msgid ""
+"Enter your email address and check the box next to each mailing list you "
+"want to join. Then click the <strong>Subscribe</strong> button. You will "
+"receive a confirmation request via email for each selected list. Activate "
+"your subscription to each list by responding to the corresponding "
+"confirmation email."
+msgstr ""
+
+#: templates/CRM/Mailing/Form/Task.tpl
+msgid "Number of selected Mailing Recipients: %1"
+msgstr ""
+
+#: templates/CRM/Mailing/Form/Unsubscribe.tpl
+msgid ""
+"Are you sure you want to remove %1 from the mailing list(s) shown below:"
+msgstr ""
+
+#: templates/CRM/Mailing/Form/Unsubscribe.tpl
+msgid ""
+"You are requesting to unsubscribe <strong>all email addresses for %1</"
+"strong> from the above mailing list."
+msgstr ""
+
+#: templates/CRM/Mailing/Form/Unsubscribe.tpl
+msgid ""
+"If this is your email address and you <strong>wish to unsubscribe</strong> "
+"please click the <strong>Unsubscribe</strong> button to confirm."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"Assign a unique name to each of your mailings. Select a naming convention "
+"that will help keep your mailings organized and easy to find when you want "
+"to review and compare mailing results. For example, if you do a monthly "
+"general-interest newsletter - you might use the following naming convention:"
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid "General Monthly Newsletter: 200709"
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"Select the \"FROM\" Email Address for this mailing from the dropdown list. "
+"Available email addresses are configurable by users with Administer CiviCRM "
+"permission. EXAMPLE: \"Client Services\" &lt;clientservices@example.org&gt;"
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"Go to <a href='%1'>Administer CiviCRM &raquo; Communications &raquo; Site "
+"From Email Addresses</a> to add or edit email addresses. Make sure these "
+"email addresses are valid email accounts with your email service provider."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"Contact your site administrator if you need to use a \"FROM\" Email Address "
+"which is not in the dropdown list."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"You can send your email as a simple text-only message, as an HTML formatted "
+"message, or both. Text-only messages are sufficient for most email "
+"communication - and some recipients may prefer not to receive HTML formatted "
+"messages."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"HTML messages have more visual impact, allow you to include images, and may "
+"be more readable if you are including links to website pages. However, "
+"different email programs may interpret HTML formats differently - so use "
+"this option cautiously unless you have a template format that has been "
+"tested with different web and desktop email programs."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"You may choose to include a pre-configured Header block above your message."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"You may choose to include a pre-configured Footer block below your message. "
+"This is a good place to include the required unsubscribe, opt-out and postal "
+"address tokens."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"Multiple people -- such as spouses, parents, or children -- may sometimes "
+"share the same email address."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"To send only one message to the shared address, enable this option. Mail-"
+"merge tokens will be filled for only one person."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"To send separate messages for each person, disable this option. Mail-merge "
+"tokens will be filled separately for each person."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"This option controls who can view the contents of this email on your "
+"website. The link can be included by inserting the \"Mailing permalink\" "
+"token (place it in a link when composing in HTML mode)."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid "The options for mailing visibility are:"
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"\"Public Pages\" will make the content of this mailing viewable everyone who "
+"has the permission \"view public CiviMail content\". Note that even people "
+"who did not receive the mailing would be able to find it via search engines."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"\"User and User Admin Only\" means that only users that received the mailing "
+"or administrators can view this email on your website; users must be logged "
+"in to view the message."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"It's a good idea to test your mailing by sending it to yourself and/or a "
+"selected group of people in your organization."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid "Things to check in a test mailing:"
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"Verify the content and formatting looks consistent across various email "
+"clients."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"If you are using mail-merge tokens, check that they have been replaced with "
+"expected values."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"Click on each included link to make sure they go to the expected web pages."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid "Track the number of times recipients click each link in this mailing."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"NOTE: When this feature is enabled, all links in the message body (including "
+"mailtos) will be automatically re-written to route through your CiviCRM "
+"website prior to redirecting to the target page."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"Track the number of times recipients open this mailing in their email "
+"software."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"Recipients' replies are sent to a CiviMail specific address instead of the "
+"sender's address so they can be stored within CiviCRM."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"If a recipient replies to this mailing, send an automated reply using the "
+"selected message."
+msgstr ""
+
+#: templates/CRM/Mailing/MailingUI.hlp
+msgid ""
+"If a recipient replies to this mailing, forward the reply to the FROM Email "
+"address specified for the mailing."
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Browse.hlp
+msgid ""
+"Find mailings by mailing name. You can enter a partial or complete name."
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Browse.hlp
+msgid ""
+"Find mailings by the name of the person who created or sent them. You can "
+"enter a complete OR partial name (last name, first name format)."
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Browse.hlp
+msgid "This field is disabled when searching for Draft/Unscheduled mailings."
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Browse.hlp
+msgid "Find mailing by language."
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Browse.tpl
+msgid "No %1 match your search criteria. Suggestions:"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Browse.tpl
+msgid "Or you can <a href='%1'>browse all %2 %3</a>."
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Browse.tpl
+msgid "There are no Unscheduled %1."
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Browse.tpl
+msgid "You can <a href='%1'>create and send one</a>."
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Browse.tpl
+msgid ""
+"There are no Archived %2. You can archive %2 from <a href='%1'>Scheduled or "
+"Sent %2</a>."
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Browse.tpl
+msgid "There are no Scheduled or Sent %1."
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Browse.tpl
+msgid "You can <a href='%1'>create and send one</a>"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Browse.tpl
+msgid " OR you can search the <a href='%1'>Archived %2</a>"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Component.tpl
+msgid "Add Mailing Component"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Confirm.tpl
+msgid ""
+"<strong>%1 (%2)</strong> has been successfully subscribed to the <strong>%3</"
+"strong> mailing list."
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Confirm.tpl
+msgid ""
+"Unfortunately we encountered a problem in processing your subscription "
+"confirmation. Please contact the site administrator."
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Event.tpl
+msgid "There are currently no %1."
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Delivery Summary"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid ""
+"<strong>Delivery has not yet begun for this mailing.</strong> If the "
+"scheduled delivery date and time is past, ask the system administrator or "
+"technical support contact for your site to verify that the automated mailer "
+"task ('cron job') is running - and how frequently."
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Included"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Recipients of <a href=\"%1\">%2</a>"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Members of <a href=\"%1\">%2</a>"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Excluded"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Unsubscription Groups"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Click-through Summary"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Success Rate"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Mailing Settings"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Reply-to email"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Forward replies"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Auto-respond to replies"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Open tracking"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "URL Click-through tracking"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Report.tpl
+msgid "Public url"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Resubscribe.tpl
+msgid "has been successfully resubscribed."
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Resubscribe.tpl
+msgid "Are you sure you want to resubscribe: %1 (%2)"
+msgstr ""
+
+#: templates/CRM/Mailing/Page/Tab.tpl
+msgid "Opens/ Clicks"
+msgstr ""
+
+#: ext/civi_mail/Civi/Api4/Action/Mailing/MailingSaveTrait.php
+msgid ""
+"Mailing has not been saved, Content maybe out of date, please refresh the "
+"page and try again"
+msgstr ""
+
+#: ext/civi_mail/ang/afsearchMailingAB.aff.php
+#: ext/civi_mail/managed/Navigation_afsearchMailingAB.mgd.php
+msgid "Manage A/B Tests"
+msgstr ""
+
+#: ext/civi_mail/managed/SavedSearch_Mailing_AB_Test.mgd.php
+msgid "Mailing A/B Tests"
+msgstr ""
+
+#: ext/civi_mail/managed/SavedSearch_Mailing_AB_Test.mgd.php
+msgid "Mailing A/B Tests Table"
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php CRM/Mailing/Selector/Browse.php
+msgid "Unschedule Mailing"
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php
+msgid "Are you sure you want to unschedule this mailing?"
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php
+msgid "The mailing has been unscheduled."
+msgstr ""
+
+#: CRM/Mailing/Form/Action.php
+msgid "Unscheduled"
+msgstr ""
+
+#: CRM/Mailing/Info.php
+msgid "Read all public mailings online"
+msgstr ""
+
+#: CRM/Mailing/Selector/Browse.php
+msgid "Unschedule"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockRecipients.html
+#: ext/civi_mail/ang/crmMailing/BlockRecipientsMultiline.html
+msgid "Refresh the recipient count to preview the current list"
+msgstr ""
+
+#: ext/civi_mail/ang/crmMailing/BlockRecipients.html
+#: ext/civi_mail/ang/crmMailing/BlockRecipientsMultiline.html
+msgid "%1 (out of date)"
+msgstr ""

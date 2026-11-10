@@ -1,0 +1,529 @@
+# Copyright CiviCRM LLC (c) 2004-2015
+# This file is distributed under the same license as the CiviCRM package.
+# If you contribute heavily to a translation and deem your work copyrightable,
+# make sure you license it to CiviCRM LLC under Academic Free License 3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: ncn_civi_zoom\n"
+"POT-Creation-Date: 2026-10-29 10:02+0100\n"
+"Language-Team: CiviCRM Translators <civicrm-translators@lists.civicrm.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: CRM/CivirulesActions/Participant/AddToZoom.php
+msgid "%1 %2 was added to Zoom %3 %4."
+msgstr ""
+
+#: CRM/CivirulesActions/Participant/AddToZoom.php
+msgid "Participant added!"
+msgstr ""
+
+#: CRM/CivirulesActions/Participant/AddToZoom.php
+msgid "Parameters missing"
+msgstr ""
+
+#: CRM/CivirulesActions/Participant/AddToZoom.php
+msgid "%1 has been verified"
+msgstr ""
+
+#: CRM/CivirulesActions/Participant/AddToZoom.php
+msgid "Please enable the registration in Zoom for the %1 ID %2"
+msgstr ""
+
+#: CRM/CivirulesActions/Participant/AddToZoom.php
+msgid "%1 may not belong to the account %2 (Account ID: %3). Error: %4"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php
+msgid "Zoom Data Sync Settings"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php
+msgid "Zoom user Id"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php
+msgid "Display Name"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php
+#: schema/NcnCiviZoomRegistrants.entityType.php
+#: templates/CRM/NcnCiviZoom/Form/ZoomRegistrants.tpl
+msgid "Email"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php
+msgid "Joining time"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php
+msgid "Leaving time"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php
+msgid "Duration"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php
+msgid "Registrant Id"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php
+#: templates/CRM/NcnCiviZoom/Form/ZoomRegistrants.tpl
+msgid "First Name"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php
+#: templates/CRM/NcnCiviZoom/Form/ZoomRegistrants.tpl
+msgid "Last Name"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php
+msgid "Address"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php
+msgid "City"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php
+msgid "Country"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php
+msgid "Zip"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php
+msgid "State"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php
+msgid "Industry"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php
+msgid "Job title"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php CRM/NcnCiviZoom/Form/Settings.php
+msgid "Save"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php CRM/NcnCiviZoom/Form/Settings.php
+msgid "Cancel"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php CRM/NcnCiviZoom/Form/Settings.php
+msgid "Your Settings have been saved"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/DataSync.php ncn_civi_zoom.php
+msgid "Zoom Settings"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/ImportParticipant.php
+msgid "Import Participant"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/ImportParticipant.php
+msgid "Submit"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/ImportParticipant.php
+msgid "Participant added successfully."
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/ImportParticipant.php
+msgid "Added"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/ImportParticipant.php
+msgid "Unable add the participant."
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/ImportParticipant.php
+msgid "Error"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php
+msgid "Zoom Account Settings"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php
+msgid "Delete"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php
+msgid "New Account"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php
+msgid "Account Name"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php
+msgid "User Email"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php
+msgid "- select -"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php schema/NcnCiviZoom.entityType.php
+msgid "OAuth Client"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php schema/NcnCiviZoom.entityType.php
+msgid "Account ID"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php
+msgid "Test Settings"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php
+msgid "Import Email Type"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php
+msgid "Id"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php
+msgid "Api Key"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php
+msgid "Secret Key"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php
+msgid "Action"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php
+msgid "Connected"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php
+msgid ""
+"Duplicate User Email. User Email %1 already linked to other account. Please "
+"check the user email"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php
+msgid "Zoom account settings have been updated"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php
+msgid "Your new zoom account settings have been saved"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/Settings.php
+msgid "Connection settings are correct."
+msgstr ""
+
+#: CRM/NcnCiviZoom/Form/ZoomRegistrants.php
+#: schema/NcnCiviZoomRegistrants.entityType.php
+msgid "Zoom Registrants"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Page/AJAX.php
+msgid "Import Contact"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Utils.php schema/NcnCiviZoom.entityType.php
+msgid "Zoom Account"
+msgstr ""
+
+#: CRM/NcnCiviZoom/Utils.php
+msgid "Event Zoom Notes"
+msgstr ""
+
+#: ang/afsearchZoomParticipantReport.aff.php
+#: managed/Navigation_afsearchZoomParticipantReport.mgd.php
+msgid "Zoom Participant Report"
+msgstr ""
+
+#: api/v3/Zoomevent.php
+msgid "There were no Events with an end date from %1 to %2 to process"
+msgstr ""
+
+#: managed/SavedSearch_Zoom_Participation.mgd.php
+msgid "Zoom Participation"
+msgstr ""
+
+#: managed/SavedSearch_Zoom_Participation.mgd.php
+msgid "Contact"
+msgstr ""
+
+#: managed/SavedSearch_Zoom_Participation.mgd.php
+msgid "View Contact"
+msgstr ""
+
+#: managed/SavedSearch_Zoom_Participation.mgd.php
+msgid "Event Title"
+msgstr ""
+
+#: managed/SavedSearch_Zoom_Participation.mgd.php
+msgid "View Event"
+msgstr ""
+
+#: managed/SavedSearch_Zoom_Participation.mgd.php
+msgid "Participation"
+msgstr ""
+
+#: managed/SavedSearch_Zoom_Participation.mgd.php
+msgid "View Participant"
+msgstr ""
+
+#: managed/SavedSearch_Zoom_Participation.mgd.php
+msgid "Participant Status"
+msgstr ""
+
+#: managed/SavedSearch_Zoom_Participation.mgd.php
+msgid "Zoom Email"
+msgstr ""
+
+#: managed/SavedSearch_Zoom_Participation.mgd.php
+msgid "Join Time"
+msgstr ""
+
+#: managed/SavedSearch_Zoom_Participation.mgd.php
+msgid "Total Attendance Time (in mins)"
+msgstr ""
+
+#: managed/SavedSearch_Zoom_Participation.mgd.php
+msgid "Total"
+msgstr ""
+
+#: ncn_civi_zoom.php
+msgid "NcnCiviZoom"
+msgstr ""
+
+#: ncn_civi_zoom.php
+msgid "administer Zoom"
+msgstr ""
+
+#: ncn_civi_zoom.php
+msgid "Administer Zoom configuration"
+msgstr ""
+
+#: ncn_civi_zoom.php schema/NcnCiviZoom.entityType.php
+msgid "Zoom Accounts"
+msgstr ""
+
+#: ncn_civi_zoom.php
+msgid "Zoom Data Sync"
+msgstr ""
+
+#: ncn_civi_zoom.php
+msgid ""
+"Sorry this template Can't be deleted. This was created by ncn_civi_zoom."
+msgstr ""
+
+#: ncn_civi_zoom.php
+msgid "Please select a zoom account id"
+msgstr ""
+
+#: ncn_civi_zoom.php
+msgid "Please enter either Webinar ID or Meeting ID, you cannot enter both"
+msgstr ""
+
+#: ncn_civi_zoom.php
+msgid "Please enter either Webinar ID or Meeting ID"
+msgstr ""
+
+#: ncn_civi_zoom.php
+msgid ""
+"Please select a profile having the fields - first_name, last_name and email. "
+"As they are required for zoom registration"
+msgstr ""
+
+#: ncn_civi_zoom.php
+msgid "View Zoom Registrants"
+msgstr ""
+
+#: schema/NcnCiviZoom.entityType.php
+#: schema/NcnCiviZoomRegistrants.entityType.php
+#: templates/CRM/NcnCiviZoom/Form/ZoomRegistrants.tpl
+msgid "ID"
+msgstr ""
+
+#: schema/NcnCiviZoom.entityType.php
+#: schema/NcnCiviZoomRegistrants.entityType.php
+msgid "Unique ID"
+msgstr ""
+
+#: schema/NcnCiviZoom.entityType.php
+msgid "Name"
+msgstr ""
+
+#: schema/NcnCiviZoom.entityType.php
+msgid "Account name for referencing."
+msgstr ""
+
+#: schema/NcnCiviZoom.entityType.php
+msgid "User ID"
+msgstr ""
+
+#: schema/NcnCiviZoom.entityType.php
+msgid "User email used to connect to account."
+msgstr ""
+
+#: schema/NcnCiviZoom.entityType.php
+msgid "The OAuth Client ID."
+msgstr ""
+
+#: schema/NcnCiviZoom.entityType.php
+msgid "The Zoom Account ID App Credentials."
+msgstr ""
+
+#: schema/NcnCiviZoomRegistrants.entityType.php
+msgid "Zoom Registrant"
+msgstr ""
+
+#: schema/NcnCiviZoomRegistrants.entityType.php
+msgid "Zoom Registrants via an Event"
+msgstr ""
+
+#: schema/NcnCiviZoomRegistrants.entityType.php
+#: templates/CRM/NcnCiviZoom/Form/ZoomRegistrants.tpl
+msgid "Event ID"
+msgstr ""
+
+#: schema/NcnCiviZoomRegistrants.entityType.php
+msgid "Reference to Event ID"
+msgstr ""
+
+#: schema/NcnCiviZoomRegistrants.entityType.php
+msgid "First name"
+msgstr ""
+
+#: schema/NcnCiviZoomRegistrants.entityType.php
+msgid "Zoom participant First name."
+msgstr ""
+
+#: schema/NcnCiviZoomRegistrants.entityType.php
+msgid "Last name"
+msgstr ""
+
+#: schema/NcnCiviZoomRegistrants.entityType.php
+msgid "Zoom participant Last name."
+msgstr ""
+
+#: schema/NcnCiviZoomRegistrants.entityType.php
+msgid "Zoom participant associated email."
+msgstr ""
+
+#: schema/NcnCiviZoomRegistrants.entityType.php
+msgid "Emailed Registrant?"
+msgstr ""
+
+#: schema/NcnCiviZoomRegistrants.entityType.php
+msgid "Whether this person emailed by zoom."
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Event/Form/ManageEvent/CheckZoomAccountWithEvent.tpl
+msgid "Please enter a webinarId or meetingId"
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Event/Form/ManageEvent/CheckZoomAccountWithEvent.tpl
+msgid "Please enter either webinarId or meetingId, don't enter both"
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Event/Form/ManageEvent/CheckZoomAccountWithEvent.tpl
+msgid "Checking..."
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Event/Form/ManageEvent/CheckZoomAccountWithEvent.tpl
+msgid "Please select a Zoom account"
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Form/DataSync.tpl
+msgid ""
+"Select the Zoom fields to be synced with the CiviCRM participant records."
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Form/DataSync.tpl
+msgid ""
+"The information can be seen from Manage Events, under the \"more\" link of "
+"an event, select View Zoom Participants."
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Form/DataSync.tpl
+msgid "Webinars and Meetings fields (participants report)"
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Form/DataSync.tpl
+msgid "Meetings only fields (participants report)"
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Form/DataSync.tpl
+msgid "Webinars only fields (get past webinar absentees)"
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Form/ImportParticipant.tpl
+msgid "Create participant for the Event: %1."
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Form/Settings.tpl
+msgid "Zoom Account: %1"
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Form/Settings.tpl
+msgid ""
+"For information only. The Client/ID below is what associates with a Zoom "
+"account."
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Form/Settings.tpl
+msgid "OPTIONAL - Email associated with a user of the zoom account."
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Form/Settings.tpl
+msgid ""
+"When set, the meeting/webinar validation on the Event Settings will validate "
+"only for meetings/webinars of that specific account."
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Form/Settings.tpl
+msgid ""
+"If left empty, then it will validate against all webinars/meetings created "
+"by all users that have access to that Zoom account."
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Form/Settings.tpl
+msgid ""
+"The OAuth Clients are managed on the CiviCRM OAuth Client Settings screen. "
+"Register the client there, then select it here. This is admittedly odd, but "
+"we wanted to avoid duplicate interfaces for managing credentials."
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Form/Settings.tpl
+msgid ""
+"The Zoom Account ID is visible on the App Credentials section. Go to: "
+"https://marketplace.zoom.us/user/build then click on the app you created."
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Form/Settings.tpl
+msgid "Add New zoom account"
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Form/Settings.tpl
+msgid "Select the event custom field which holds the Zoom Webinar ID"
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Form/Settings.tpl
+msgid "Select the event custom field which holds the Zoom Meeting ID"
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Form/Settings.tpl
+msgid "Select the event custom field which holds the Zoom Account ID"
+msgstr ""
+
+#: templates/CRM/NcnCiviZoom/Form/Settings.tpl
+msgid "Email location type to be used while importing the zoom registrant"
+msgstr ""

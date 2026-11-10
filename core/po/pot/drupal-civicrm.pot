@@ -1,0 +1,497 @@
+# Copyright CiviCRM LLC (c) 2004-2015
+# This file is distributed under the same license as the CiviCRM package.
+# If you contribute heavily to a translation and deem your work copyrightable,
+# make sure you license it to CiviCRM LLC under Academic Free License 3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: CiviCRM\n"
+"POT-Creation-Date: 2023-06-17 15:54-0400\n"
+"Language-Team: CiviCRM Translators <civicrm-translators@lists.civicrm.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: CRM/Core/Permission.php
+msgid "CiviCRM"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "add contacts"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Create a new contact record in CiviCRM"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "view all contacts"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "View ANY CONTACT in the CiviCRM database, export contact info and perform activities such as Send Email, Phone Call, etc."
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "edit all contacts"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "View, Edit and Delete ANY CONTACT in the CiviCRM database; Create and edit relationships, tags and other info about the contacts"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "view my contact"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "edit my contact"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "delete contacts"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "access deleted contacts"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Access contacts in the trash"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "import contacts"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Import contacts and activities"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "import SQL datasource"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "When importing, consume data directly from a SQL datasource"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "edit groups"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Create new groups, edit group settings (e.g. group name, visibility...), delete groups"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "administer CiviCRM"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Perform all tasks in the Administer CiviCRM control panel and Import Contacts"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "skip IDS check"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Warning: Give to trusted roles only; this permission has security implications. IDS system is bypassed for users with this permission. Prevents false errors for admin users."
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "access uploaded files"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "View / download files including images and photos"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "profile listings and forms"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Warning: Give to trusted roles only; this permission has privacy implications. Add/edit data in online forms and access public searchable directories."
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "profile listings"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Warning: Give to trusted roles only; this permission has privacy implications. Access public searchable directories."
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "profile create"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Add data in a profile form."
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "profile edit"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Edit data in a profile form."
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "profile view"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "View data in a profile."
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "access all custom data"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "View all custom fields regardless of ACL rules"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "view all activities"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "View all activities (for visible contacts)"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Delete activities"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "edit inbound email basic information"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Edit all inbound email activities (for visible contacts) basic information. Content editing not allowed."
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "edit inbound email basic information and content"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Edit all inbound email activities (for visible contacts) basic information and content."
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "access CiviCRM backend and API"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Master control for access to the main CiviCRM backend and API. Give to trusted roles only."
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "access Contact Dashboard"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "View Contact Dashboard (for themselves and visible contacts)"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "translate CiviCRM"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Allow User to enable multilingual"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "manage tags"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Create and rename tags"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "administer reserved groups"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Edit and disable Reserved Groups (Needs Edit Groups)"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "administer Tagsets"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "administer reserved tags"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "administer queues"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Initialize, browse, and cancel background processing queues"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "administer dedupe rules"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Create and edit rules, change the supervised and unsupervised rules"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "merge duplicate contacts"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Delete Contacts must also be granted in order for this to work."
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "force merge duplicate contacts"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "view debug output"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "View results of debug and backtrace"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "view all notes"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "View notes (for visible contacts) even if they're marked admin only"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "add contact notes"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Create notes for contacts"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "access AJAX API"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Allow API access even if Access CiviCRM is not granted"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "access contact reference fields"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Allow entering data into contact reference fields"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "create manual batch"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Create an accounting batch (with Access to CiviContribute and View Own/All Manual Batches)"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "edit own manual batches"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Edit accounting batches created by user"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "edit all manual batches"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Edit all accounting batches"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "close own manual batches"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Close accounting batches created by user (with Access to CiviContribute)"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "close all manual batches"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Close all accounting batches (with Access to CiviContribute)"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "reopen own manual batches"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Reopen accounting batches created by user (with Access to CiviContribute)"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "reopen all manual batches"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Reopen all accounting batches (with Access to CiviContribute)"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "view own manual batches"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "View accounting batches created by user (with Access to CiviContribute)"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "view all manual batches"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "View all accounting batches (with Access to CiviContribute)"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "delete own manual batches"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Delete accounting batches created by user"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "delete all manual batches"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Delete all accounting batches"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "export own manual batches"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Export accounting batches created by user"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "export all manual batches"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Export all accounting batches"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "administer payment processors"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Add, Update, or Disable Payment Processors"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "render templates"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Render open-ended template content. (Additional constraints may apply to autoloaded records and specific notations.)"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "edit message templates"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "edit system workflow message templates"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "edit user-driven message templates"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "view my invoices"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Allow users to view/ download their own invoices"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "edit api keys"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Edit API keys"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "edit own api keys"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Edit user's own API keys"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "send SMS"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Send an SMS"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "administer CiviCRM System"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Perform all system administration tasks in CiviCRM"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "administer CiviCRM Data"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Permit altering all restricted data options"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "all CiviCRM permissions and ACLs"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Administer and use CiviCRM bypassing any other permission or ACL checks and enabling the creation of displays and forms that allow others to bypass checks. This permission should be given out with care"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "administer Multiple Organizations"
+msgstr ""
+
+#: CRM/Core/Permission.php
+msgid "Administer multiple organizations. In practice this allows editing the group organization link"
+msgstr ""
+

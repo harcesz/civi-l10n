@@ -1,0 +1,1707 @@
+# Copyright CiviCRM LLC (c) 2004-2015
+# This file is distributed under the same license as the CiviCRM package.
+# If you contribute heavily to a translation and deem your work copyrightable,
+# make sure you license it to CiviCRM LLC under Academic Free License 3.0.
+# Translators:
+# Adam Stachowicz <saibamenppl@gmail.com>, 2015
+# Dariusz Horbaczyk, 2025
+# Emil D <emillo@emillo.cba.pl>, 2012
+# Jakub, 2014
+# Jakub, 2014
+# Jakub Karczyński <karczynski.jakub@staroflife.pl>, 2017
+# Marcin Lewandowski <email.marcina.lewandowskiego@gmail.com>, 2017-2020
+# Michał Mach, 2012
+# Michał Mach, 2012
+# Piotr Kaczyński <www@skrzydla.lublin.pl>, 2015
+# Piotr Szotkowski <chastell@chastell.net>, 2011
+# Sergey <kovalski1601@gmail.com>, 2015
+# Wiktor Jezioro <wikjezioro@op.pl>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: CiviCRM\n"
+"POT-Creation-Date: 2026-10-08 11:27-0400\n"
+"PO-Revision-Date: 2011-03-28 14:17+0000\n"
+"Last-Translator: Dariusz Horbaczyk, 2025\n"
+"Language-Team: Polish (http://app.transifex.com/civicrm/civicrm/language/pl/)\n"
+"Language: pl_ZW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: CRM/Case/BAO/Case.php
+#: xml/templates/message_templates/case_activity_html.tpl
+msgid "View activity"
+msgstr "Przejrzyj interakcje"
+
+#: CRM/Case/BAO/Case.php
+#: xml/templates/message_templates/case_activity_html.tpl
+msgid "Edit activity"
+msgstr "Edytuj zdarzenie"
+
+#: CRM/Case/BAO/Case.php CRM/Case/Selector/Search.php
+msgid "(deleted)"
+msgstr "(usunięty)"
+
+#: CRM/Case/BAO/Case.php
+msgid "%1 - copy sent to %2"
+msgstr "%1 - kopia wysłana do %2"
+
+#: CRM/Case/BAO/Case.php
+msgid "Role in Case"
+msgstr "Rola w przypadku"
+
+#: CRM/Case/BAO/Case.php
+msgid "View Case"
+msgstr "Zobacz przypadek"
+
+#: CRM/Case/BAO/Case.php
+msgid "Case %1 reassigned client from %2 to %3. New Case ID is %4."
+msgstr ""
+"Przypadek %1 ponownie przepisany z %2 do %3. Nowy numer identyfikacyjny "
+"przypadku to %4."
+
+#: CRM/Case/BAO/Case.php
+msgid ""
+"Case %1 copied from contact id %2 to contact id %3 via merge. New Case ID is"
+" %4."
+msgstr ""
+"Przypadek %1 skopiowany z kontaktu %2 do kontaktu %3 poprzez połączenie. "
+"Nowy numer identyfikacyjny przypadku to %4."
+
+#: CRM/Case/BAO/Case.php
+msgid "Case %1 merged into case %2"
+msgstr "Przypadek %1 połączony z przypadkiem %2"
+
+#: CRM/Case/BAO/CaseType.php
+msgid ""
+"You can not delete this case type -- it is assigned to %1 existing case "
+"record(s). If you do not want this case type to be used going forward, "
+"consider disabling it instead."
+msgstr ""
+"Nie można usunąć tego rodzaju przypadku - jest przypisany do % 1 "
+"istniejących spraw. Jeśli nie chcesz, aby ten typ sprawy był używany, możesz"
+" go wyłączyć."
+
+#: CRM/Case/BAO/Query.php
+msgid "Case %1 My Cases"
+msgstr "Przypadki %1 Moje przypadki"
+
+#: CRM/Case/BAO/Query.php
+msgid "Case %1 All Cases"
+msgstr "Przypadek %1 wszystkich przypadków"
+
+#: CRM/Case/BAO/Query.php
+msgid "Find Deleted Cases"
+msgstr "Znajdź usunięte przypadki"
+
+#: CRM/Case/BAO/Query.php
+msgid "Activity Subject %1 '%2'"
+msgstr "Temat interakcji %1 '%2'"
+
+#: CRM/Case/BAO/Query.php
+msgid "Activity Reporter %1 '%2'"
+msgstr "Interakcje raportującego %1 \"%2\""
+
+#: CRM/Case/BAO/Query.php
+msgid "Activity Date %1 %2"
+msgstr "Data interakcji %1 %2"
+
+#: CRM/Case/BAO/Query.php
+msgid "Activity Type %1 %2"
+msgstr "Rodzaj interakcji %1 %2"
+
+#: CRM/Case/BAO/Query.php
+msgid "Activity Status %1 %2"
+msgstr "Status interakcji %1 %2"
+
+#: CRM/Case/BAO/Query.php
+msgid "Activity Duration %1 %2"
+msgstr "Czas trwania interakcji %1 %2"
+
+#: CRM/Case/BAO/Query.php
+msgid "Activity Medium %1 %2"
+msgstr "Nośnik interakcji %1 %2"
+
+#: CRM/Case/BAO/Query.php
+msgid "Activity Details %1 '%2'"
+msgstr "Szczegóły interakcji %1 '%2'"
+
+#: CRM/Case/BAO/Query.php
+msgid "Activity Auto Generated %1 '%2'"
+msgstr ""
+
+#: CRM/Case/BAO/Query.php
+msgid "Role in Case  %1 '%2'"
+msgstr "Rola w przypadku %1 „%2”"
+
+#: CRM/Case/BAO/Query.php
+msgid "Case Tags %1"
+msgstr "Tagi przypadku %1"
+
+#: CRM/Case/BAO/Query.php
+msgid "Case Tag(s)"
+msgstr "Tag(i) przypadku"
+
+#: CRM/Case/BAO/Query.php
+msgid "Search All Cases"
+msgstr "Wyszukaj wszystkie przypadki"
+
+#: CRM/Case/BAO/Query.php
+msgid "Only My Cases"
+msgstr "Tylko moje przypadki"
+
+#: CRM/Case/BAO/Query.php
+msgid "Search Cases with Upcoming Activities"
+msgstr "Szukaj przypadków z nadchodzącymi interakcjami"
+
+#: CRM/Case/Form/Activity/ChangeCaseStartDate.php
+#: CRM/Case/Form/Activity/ChangeCaseStatus.php
+#: CRM/Case/Form/Activity/ChangeCaseType.php
+#: CRM/Case/Form/Activity/LinkCases.php
+msgid "Case Id not found."
+msgstr "Numer identyfikacyjny przypadku nie został znaleziony."
+
+#: CRM/Case/Form/Activity/ChangeCaseStartDate.php
+#: CRM/Case/Form/Activity/LinkCases.php
+msgid "Expected one case-type"
+msgstr "Spodziewany jeden rodzaj przypadku"
+
+#: CRM/Case/Form/Activity/ChangeCaseStartDate.php
+msgid "New Start Date"
+msgstr "Nowa data rozpoczęcia"
+
+#: CRM/Case/Form/Activity/ChangeCaseStartDate.php
+#: CRM/Case/Form/Activity/ChangeCaseType.php
+msgid "Required parameter missing for ChangeCaseType - end post processing"
+msgstr ""
+
+#: CRM/Case/Form/Activity/ChangeCaseStartDate.php
+msgid "Unable to update Open Case activity"
+msgstr ""
+
+#: CRM/Case/Form/Activity/ChangeCaseStartDate.php
+msgid "Case Start Date changed successfully."
+msgstr "Data rozpoczęcia przypadku została zmieniona pomyślnie"
+
+#: CRM/Case/Form/Activity/ChangeCaseStatus.php
+msgid "Case status changed from %1 to %2"
+msgstr "Status przypadku zmieniony z %1 na %2"
+
+#: CRM/Case/Form/Activity/ChangeCaseType.php
+msgid "Reset Case Timeline?"
+msgstr "Zresetować ścieżkę czasu przypadku?"
+
+#: CRM/Case/Form/Activity/ChangeCaseType.php
+msgid "Reset Start Date"
+msgstr "Zresetować datę rozpoczęcia"
+
+#: CRM/Case/Form/Activity/ChangeCaseType.php
+msgid "Case type changed from %1 to %2"
+msgstr "Typ przypadku zmieniony z %1 na %2"
+
+#: CRM/Case/Form/Activity/ChangeCaseType.php
+msgid "Case Type changed successfully."
+msgstr "Zmiana typu przypadku przebiegła pomyślnie"
+
+#: CRM/Case/Form/Activity/LinkCases.php
+msgid "Link To Case"
+msgstr "Połącz do przypadku"
+
+#: CRM/Case/Form/Activity/LinkCases.php
+msgid "The linked case ID is invalid."
+msgstr ""
+
+#: CRM/Case/Form/Activity/LinkCases.php
+msgid "Please select some other case to link."
+msgstr "Proszę wybrać inny przypadek do połączenia."
+
+#: CRM/Case/Form/Activity/LinkCases.php
+msgid "Selected case is already linked."
+msgstr "Wybrany przypadek jest już połączony."
+
+#: CRM/Case/Form/Activity/OpenCase.php
+#: ext/civi_case/Civi/Api4/Service/Spec/Provider/CaseCreationSpecProvider.php
+msgid "Activity Duration"
+msgstr ""
+
+#: CRM/Case/Form/Activity/OpenCase.php
+msgid "Required parameter missing for OpenCase - end post processing"
+msgstr ""
+
+#: CRM/Case/Form/Activity/OpenCase.php
+msgid "client_id cannot be empty for OpenCase - end post processing"
+msgstr ""
+
+#: CRM/Case/Form/Activity/OpenCase.php
+msgid "Case opened successfully."
+msgstr "Przypadek został otwarty pomyślnie"
+
+#: CRM/Case/Form/Activity.php
+msgid "required params missing."
+msgstr ""
+
+#: CRM/Case/Form/Activity.php CRM/Case/XMLProcessor/Report.php
+msgid "Reported By"
+msgstr "Raportowane przez"
+
+#: CRM/Case/Form/Activity.php CRM/Case/Form/CaseView.php
+msgid "- select activity type -"
+msgstr ""
+
+#: CRM/Case/Form/Activity.php
+msgid ""
+"The selected activity has been moved to the Trash. You can view and / or "
+"restore deleted activities by checking \"Deleted Activities\" from the Case "
+"Activities search filter (under Manage Case).<br />"
+msgstr ""
+"Wybrana czynność została przeniesiona do kosza. Możesz wyświetlić i / lub "
+"przywracać usunięte czynności, zaznaczając \"Czynności usunięte\" z filtru "
+"wyszukiwania spraw (w polu Zarządzaj przypadkiem).<br />"
+
+#: CRM/Case/Form/Activity.php
+msgid "Selected Activity cannot be deleted."
+msgstr "Wybrana interakcja nie może być usunięta"
+
+#: CRM/Case/Form/Activity.php
+msgid "The selected activity has been restored.<br />"
+msgstr "Wybrana interakcja została przywrócona<br />"
+
+#: CRM/Case/Form/Activity.php
+msgid "A copy of the activity has also been sent to selected contact(s)."
+msgstr ""
+
+#: CRM/Case/Form/Activity.php
+msgid "%1 Saved"
+msgstr "%1 zapisano"
+
+#: CRM/Case/Form/Activity.php
+msgid "You can not add another '%1' activity to this case. %2"
+msgstr "Nie możesz dodać kolejnej '%1' interakcji do tego przypadku %2"
+
+#: CRM/Case/Form/Activity.php
+msgid "Do you want to <a %1>edit the existing activity</a>?"
+msgstr "Czy chcesz <a %1>edytować istniejącą aktywność </a>?"
+
+#: CRM/Case/Form/Activity.php
+msgid "You can not add another '%1' activity to this case."
+msgstr ""
+
+#: CRM/Case/Form/ActivityToCase.php templates/CRM/Case/Form/ActivityToCase.tpl
+msgid "Move to Case"
+msgstr "Przenieś do przypadku"
+
+#: CRM/Case/Form/ActivityToCase.php templates/CRM/Case/Form/ActivityToCase.tpl
+msgid "Copy to Case"
+msgstr "Skopiuj do przypadku"
+
+#: CRM/Case/Form/ActivityToCase.php CRM/Case/XMLProcessor/Report.php
+msgid "With Contact(s)"
+msgstr "Z kontaktem"
+
+#: CRM/Case/Form/ActivityView.php
+msgid "Home"
+msgstr ""
+
+#: CRM/Case/Form/ActivityView.php CRM/Case/Page/DashBoard.php
+msgid "CiviCase Dashboard"
+msgstr "Pulpit CiviCase"
+
+#: CRM/Case/Form/AddToCaseAsRole.php
+msgid "Assign to"
+msgstr "Przypisane do"
+
+#: CRM/Case/Form/Case.php
+msgid "You do not have any active %1"
+msgstr "Nie masz żadnych aktywności %1"
+
+#: CRM/Case/Form/Case.php
+msgid ""
+"The Open Case activity type is missing or disabled. Please have your site "
+"administrator check Administer > Option Lists > Activity Types for the "
+"CiviCase component."
+msgstr ""
+"Typ aktywności otwartego przypadku jest zaginiony lub wyłączony. Proszę "
+"powaiadomić administratora strony, by sprawdził: Administrator> Listy opcji>"
+" Rodzaje interakcji w CiviCase."
+
+#: CRM/Case/Form/Case.php
+msgid "Client contact does not exist: %1"
+msgstr "Kontakt klienta nie istnieje: %1"
+
+#: CRM/Case/Form/Case.php
+msgid ""
+"You can view and / or restore deleted cases by checking the \"Deleted "
+"Cases\" option under Find Cases."
+msgstr ""
+
+#: CRM/Case/Form/Case.php
+msgid "Case Deleted"
+msgstr "Przypadek usunięto"
+
+#: CRM/Case/Form/Case.php
+msgid "The selected case has been restored."
+msgstr ""
+
+#: CRM/Case/Form/CaseView.php
+msgid "Related Cases"
+msgstr "Powiązane przypadku"
+
+#: CRM/Case/Form/CaseView.php
+msgid "You do not have permission to access this case."
+msgstr ""
+
+#: CRM/Case/Form/CaseView.php
+msgid "%1 Related Case"
+msgid_plural "%1 Related Cases"
+msgstr[0] "%1 Powiązane przypadki"
+msgstr[1] "%1 Powiązane przypadki"
+msgstr[2] "%1 Powiązane przypadki"
+msgstr[3] "%1 Powiązane przypadki"
+
+#: CRM/Case/Form/CaseView.php
+msgid "Add Activity"
+msgstr "Dodaj czynność"
+
+#: CRM/Case/Form/CaseView.php
+msgid "Activity Audit"
+msgstr "Audyt aktywności"
+
+#: CRM/Case/Form/CaseView.php
+msgid "Add Timeline"
+msgstr "Dodaj oś czasu"
+
+#: CRM/Case/Form/CaseView.php
+msgid "Activities from the %1 activity set have been added to this case."
+msgstr "Aktywności z %1 zestawu aktywności zostały dodane do tego przypadku. "
+
+#: CRM/Case/Form/CaseView.php
+msgid "- any reporter -"
+msgstr ""
+
+#: CRM/Case/Form/CaseView.php templates/CRM/Case/Form/ActivityTab.tpl
+msgid "Reporter/Role"
+msgstr "Raportujący/rola"
+
+#: CRM/Case/Form/CaseView.php
+msgid "- any status -"
+msgstr ""
+
+#: CRM/Case/Form/CaseView.php
+msgid "Activity Dates - From"
+msgstr "Daty interakcji – od"
+
+#: CRM/Case/Form/CaseView.php
+msgid "Deleted Activities"
+msgstr "Usunięte aktywności"
+
+#: CRM/Case/Form/CaseView.php
+msgid "(opened %1)"
+msgstr "(Otwarty %1)"
+
+#: CRM/Case/Form/CaseView.php
+msgid "Select Case for Merge"
+msgstr "Wybierz przypadki do połączenia"
+
+#: CRM/Case/Form/CaseView.php
+msgid "- select case -"
+msgstr "- wybierz przypadek -"
+
+#: CRM/Case/Form/CustomData.php
+msgid "No file"
+msgstr ""
+
+#: CRM/Case/Form/DeleteClient.php
+msgid "Cannot Remove Client from case as is the only client on the case"
+msgstr ""
+
+#: CRM/Case/Form/DeleteClient.php
+msgid "Remove Client from Case"
+msgstr ""
+
+#: CRM/Case/Form/DeleteClient.php
+msgid "Case Client Removed"
+msgstr ""
+
+#: CRM/Case/Form/EditClient.php
+msgid "Reassign Case"
+msgstr "Przepisz przypadek"
+
+#: CRM/Case/Form/EditClient.php
+msgid "Please select a different contact."
+msgstr "Proszę wybrać inny kontakt."
+
+#: CRM/Case/Form/Report.php
+msgid "All Activities"
+msgstr "Wszystkie czynności"
+
+#: CRM/Case/Form/Report.php
+msgid "Exclude Completed Activities"
+msgstr "Wyklucz zakończone czynności"
+
+#: CRM/Case/Form/Report.php
+msgid "Redact (hide) Client and Service Provider Data"
+msgstr "Przetwórz (ukryj) dane klienta i dane dostawcy usług."
+
+#: CRM/Case/Form/Report.php
+msgid "Generate Report"
+msgstr "Generuj raport"
+
+#: CRM/Case/Form/Search.php
+msgid "Client Name or Email"
+msgstr "Nazwa lub e-mail klienta"
+
+#: CRM/Case/Form/Search.php templates/CRM/Case/Page/DashBoard.tpl
+msgid "Find Cases"
+msgstr "Wyszukaj przypadki"
+
+#: CRM/Case/Form/Task/Delete.php CRM/Case/Info.php CRM/Case/Task.php
+msgid "Delete cases"
+msgstr "Usuń przypadki"
+
+#: CRM/Case/Form/Task/Delete.php
+msgid "%count case moved to trash."
+msgid_plural "%count cases moved to trash."
+msgstr[0] "%count przypadku przeniesiony do kosza."
+msgstr[1] "%count przypadków przeniesionych do kosza."
+msgstr[2] "%count przypadków przeniesionych do kosza."
+msgstr[3] "%count przypadków przeniesionych do kosza."
+
+#: CRM/Case/Form/Task/Delete.php
+msgid "%count case permanently deleted."
+msgid_plural "%count cases permanently deleted."
+msgstr[0] "%count przypadek permanentnie usunięty"
+msgstr[1] "%count przypadków permanentnie usunięto"
+msgstr[2] "%count przypadków permanentnie usunięto"
+msgstr[3] "%count przypadków permanentnie usunięto"
+
+#: CRM/Case/Form/Task/Print.php
+msgid "Print Case List"
+msgstr "Drukuj listę przypadków"
+
+#: CRM/Case/Form/Task/Restore.php
+msgid "Restore Cases"
+msgstr "Przywróć przypadki"
+
+#: CRM/Case/Form/Task/Restore.php
+msgid "%count case restored from trash."
+msgid_plural "%count cases restored from trash."
+msgstr[0] "%count przypadek przywrócony z kosza."
+msgstr[1] "%count przypadków przywróconych z kosza."
+msgstr[2] "%count przypadków przywróconych z kosza."
+msgstr[3] "%count przypadków przywróconych z kosza."
+
+#: CRM/Case/Form/Task/Restore.php
+msgid "1 could not be restored."
+msgid_plural "%count could not be restored."
+msgstr[0] "1 nie może zostać przywrócony."
+msgstr[1] "%count nie może zostać przywrócony."
+msgstr[2] "%count nie może zostać przywrócony."
+msgstr[3] "%count nie może zostać przywrócony."
+
+#: CRM/Case/Info.php
+msgid "CiviCase Engine"
+msgstr "CiviCase silnik"
+
+#: CRM/Case/Info.php
+msgid "delete in CiviCase"
+msgstr "Usuń w CiviCase"
+
+#: CRM/Case/Info.php
+msgid "administer CiviCase"
+msgstr "zarządzaj CiviCase"
+
+#: CRM/Case/Info.php
+msgid "Define case types, access deleted cases"
+msgstr "Określ typy przypadków, dostęp do usuniętych przypadków."
+
+#: CRM/Case/Info.php
+msgid "access my cases and activities"
+msgstr "dostęp do moich przypadków i aktywności"
+
+#: CRM/Case/Info.php
+msgid "View and edit only those cases managed by this user"
+msgstr ""
+"Pokaż i edytuj tylko te przypadki, którymi może zarządzać użytkownik. "
+
+#: CRM/Case/Info.php
+msgid "access all cases and activities"
+msgstr "dostęp do wszystkich przypadków i aktywności"
+
+#: CRM/Case/Info.php
+msgid "View and edit all cases (for visible contacts)"
+msgstr "Zobacz wszystkie przypadki (dla widocznych kontaktów)"
+
+#: CRM/Case/Info.php
+msgid "add cases"
+msgstr "dodawanie przypadków"
+
+#: CRM/Case/Info.php
+msgid "Open a new case"
+msgstr "Utwórz nowe przypadki"
+
+#: CRM/Case/Info.php
+msgid "Do not redact emails"
+msgstr ""
+
+#: CRM/Case/Info.php
+msgid "Redact emails"
+msgstr ""
+
+#: CRM/Case/Info.php
+msgid "Single client per case"
+msgstr "Pojedynczy klient do przypadku"
+
+#: CRM/Case/Info.php
+msgid "Multiple client per case"
+msgstr "Wielu klientów do przypadku"
+
+#: CRM/Case/Info.php
+msgid "Definition order"
+msgstr ""
+
+#: CRM/Case/Info.php
+msgid "Alphabetical order"
+msgstr "Kolejność alfabetyczna"
+
+#: CRM/Case/Page/AJAX.php
+msgid "Client Added To Case"
+msgstr ""
+
+#: CRM/Case/Page/DashBoard.php
+msgid "You are not authorized to access all cases and activities."
+msgstr "Nie masz dostępu do wszystkich przypadków i czynności"
+
+#: CRM/Case/Page/Tab.php CRM/Case/Selector/Search.php
+msgid "Manage"
+msgstr ""
+
+#: CRM/Case/Page/Tab.php CRM/Case/Selector/Search.php
+#: templates/CRM/Case/Form/Case.tpl
+msgid "Delete Case"
+msgstr "Usuń przypadek"
+
+#: CRM/Case/Selector/Search.php templates/CRM/Case/Form/Case.tpl
+msgid "Restore Case"
+msgstr ""
+
+#: CRM/Case/Selector/Search.php templates/CRM/Case/Form/CaseView.tpl
+msgid "Assign to Another Client"
+msgstr "Przypisz do innego klienta"
+
+#: CRM/Case/Selector/Search.php templates/CRM/Case/Form/Task/Print.tpl
+#: templates/CRM/Case/Page/DashboardSelector.tpl
+msgid "My Role"
+msgstr "Moja rola"
+
+#: CRM/Case/Selector/Search.php templates/CRM/Case/Page/DashboardSelector.tpl
+msgid "Next Sched."
+msgstr "Następny plan"
+
+#: CRM/Case/Selector/Search.php
+msgid "Case Search"
+msgstr "Wyszukaj przypadek"
+
+#: CRM/Case/Selector/Search.php
+msgid "Move To Case"
+msgstr "Przesuń do przypadku"
+
+#: CRM/Case/Selector/Search.php
+msgid "Copy To Case"
+msgstr "Skopiuj do przypadku"
+
+#: CRM/Case/Task.php
+msgid "Export cases"
+msgstr "Eksportuj przypadki "
+
+#: CRM/Case/Task.php
+msgid "Restore cases"
+msgstr "Przywróć przypadki"
+
+#: CRM/Case/Task.php
+msgid "Update multiple cases"
+msgstr ""
+
+#: CRM/Case/Task.php
+msgid "Tag - add to cases"
+msgstr ""
+
+#: CRM/Case/Task.php
+msgid "Tag - remove from cases"
+msgstr ""
+
+#: CRM/Case/WorkflowMessage/ActivityExamples.php
+msgid "Sample case"
+msgstr ""
+
+#: CRM/Case/XMLProcessor/Process.php
+msgid "Configuration file could not be retrieved for case type = '%1' %2."
+msgstr "Nie można pobrać pliku konfiguracyjnego dla typu przypadku = '%1' %2."
+
+#: CRM/Case/XMLProcessor/Process.php
+msgid ""
+"Unable to load configuration file for the referenced case type: '%1' %2."
+msgstr ""
+"Nie można wczytać pliku konfiguracji dla typu przypadku odwoławczego: '%1' "
+"%2."
+
+#: CRM/Case/XMLProcessor/Process.php
+msgid ""
+"Relationship type %1, found in case configuration file, is not present in "
+"the database %2"
+msgstr ""
+"Typ relacji %1, znaleziony w pliku konfiguracyjnym przypadku, nie istnieje w"
+" bazie danych %2"
+
+#: CRM/Case/XMLProcessor/Process.php
+msgid ""
+"Activity type %1, found in case configuration file, is not present in the "
+"database %2"
+msgstr ""
+"Rodzaj przypadku %1, znaleziony w pliku konfiguracyjnym przypadku, nie "
+"istnieje w bazie danych %2"
+
+#: CRM/Case/XMLProcessor/Report.php
+msgid "Medium"
+msgstr "Medium"
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "Housing Support"
+msgstr "Pomoc przy zakwaterowaniu"
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "Help homeless individuals obtain temporary and long-term housing"
+msgstr "Pomóż bezdomnym w poszukiwaniu czasowego lub stałego mieszkania"
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "Adult Day Care Referral"
+msgstr "Skierowanie do opieki dziennej."
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "Arranging adult day care for senior individuals"
+msgstr "Organizowanie indywidualnej opieki dziennej dla seniora. "
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "Medical evaluation"
+msgstr "Wywiad medyczny"
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "Mental health evaluation"
+msgstr "Badanie zdrowia psychicznego"
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "Secure temporary housing"
+msgstr "Zabezpiecz tymczasowy nocleg. "
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "Income and benefits stabilization"
+msgstr "Stabilizacja dochodów i zysków"
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "Long-term housing plan"
+msgstr "Długoterminowy plan noclegowy."
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "ADC referral"
+msgstr "Skierowanie do opieki dziennej."
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "Homeless Services Coordinator is"
+msgstr "Koordynatorem usług dla bezdomnych jest"
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "Homeless Services Coordinator"
+msgstr "Koordynator usług dla bezdomnych"
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "Health Services Coordinator is"
+msgstr "Koordynator usług zdrowotnych jest"
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "Health Services Coordinator"
+msgstr "Koordynator usług zdrowotnych"
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "Senior Services Coordinator is"
+msgstr "Starszym koordynatorem usług jest"
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "Senior Services Coordinator"
+msgstr "Starszy koordynator usług"
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "Benefits Specialist is"
+msgstr "Specjalistą ds. świadczeń jest"
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "Benefits Specialist"
+msgstr "Specjalista ds. świadczeń"
+
+#: CRM/Case/xml/configuration.sample/case_sample.mysql.tpl
+msgid "Case Resources"
+msgstr "Zasoby przypadku "
+
+#: ext/civi_case/Civi/Afform/Behavior/CaseAutofill.php
+msgid "Autofill"
+msgstr ""
+
+#: ext/civi_case/Civi/Afform/Behavior/CaseAutofill.php
+msgid ""
+"Automatically identify this case based on the case being viewed when this "
+"form is placed on the case summary screen or when email with the link to the"
+" form is send from the Case."
+msgstr ""
+
+#: ext/civi_case/Civi/Afform/Behavior/CaseAutofill.php
+msgid "Case being Viewed"
+msgstr ""
+
+#: ext/civi_case/Civi/Afform/Behavior/CaseAutofill.php
+msgid "For use on the case summary page"
+msgstr ""
+
+#: ext/civi_case/Civi/Afform/Behavior/ContactAutofillBasedOnCase.php
+msgid "Is client of case"
+msgstr ""
+
+#: ext/civi_case/Civi/Afform/Behavior/ContactAutofillBasedOnCase.php
+msgid "Contact is client on the case"
+msgstr ""
+
+#: ext/civi_case/Civi/Afform/Behavior/ContactAutofillBasedOnCase.php
+msgid "Case Role is: %1"
+msgstr ""
+
+#: ext/civi_case/Civi/Afform/Behavior/ContactAutofillBasedOnCase.php
+msgid "In use for the following case types: %1"
+msgstr ""
+
+#: ext/civi_case/Civi/Afform/Behavior/ContactAutofillBasedOnCase.php
+msgid "Case role is: any"
+msgstr ""
+
+#: ext/civi_case/Civi/Afform/Behavior/ContactAutofillBasedOnCase.php
+msgid "Contact has any role on the case"
+msgstr ""
+
+#: ext/civi_case/Civi/Api4/CaseContact.php
+#: ext/civi_case/Civi/Api4/Service/Spec/Provider/CaseCreationSpecProvider.php
+msgid "Case Clients"
+msgstr ""
+
+#: ext/civi_case/Civi/Api4/CaseContact.php
+#: ext/civi_case/Civi/Api4/Service/Spec/Provider/CaseCreationSpecProvider.php
+#: templates/CRM/Case/Form/Activity/ChangeCaseStatus.tpl
+msgid "Case Client"
+msgstr ""
+
+#: ext/civi_case/Civi/Api4/CaseContact.php
+msgid "Clients"
+msgstr ""
+
+#: ext/civi_case/Civi/Api4/CaseContact.php
+msgid "Cases with this contact as a client"
+msgstr ""
+
+#: ext/civi_case/Civi/Api4/CaseContact.php
+msgid "Clients for this case"
+msgstr ""
+
+#: ext/civi_case/Civi/Api4/Service/CaseTasksProvider.php
+msgid "Case - Open New Case"
+msgstr ""
+
+#: ext/civi_case/Civi/Api4/Service/CaseTasksProvider.php
+msgid "Case - Assign Role"
+msgstr ""
+
+#: ext/civi_case/Civi/Api4/Service/Spec/Provider/ActivityCaseSpecProvider.php
+msgid "Filed on Case"
+msgstr ""
+
+#: ext/civi_case/Civi/Api4/Service/Spec/Provider/ActivityCaseSpecProvider.php
+msgid "CiviCase this activity belongs to."
+msgstr ""
+
+#: ext/civi_case/Civi/Api4/Service/Spec/Provider/CaseCreationSpecProvider.php
+msgid "Case Creator"
+msgstr ""
+
+#: ext/civi_case/Civi/Api4/Service/Spec/Provider/CaseCreationSpecProvider.php
+msgid "Activity Location"
+msgstr ""
+
+#: ext/civi_case/ang/afCaseGuiEditor/behaviors/autofillCaseBehaviorForm.component.js
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskCaseRole.ctrl.js
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskOpenCase.ctrl.js
+#: ext/civi_case/ang/crmCaseType.js
+msgid "civi_case"
+msgstr ""
+
+#: ext/civi_case/ang/afCaseGuiEditor/behaviors/autofillCaseBehaviorForm.component.js
+msgid "Select %1"
+msgstr ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskCaseRole.ctrl.js
+msgid "1 case role added."
+msgid_plural "%count case roles added."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskCaseRole.ctrl.js
+msgid "1 case role already occupied by the selected contact."
+msgid_plural "%count case roles already occupied by the selected contact."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskCaseRole.html
+msgid "Role Type"
+msgstr ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskCaseRole.html
+msgid "The selected cases do not yet have this role assigned."
+msgstr ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskCaseRole.html
+msgid "%1 cases already have this role assigned."
+msgstr ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskCaseRole.html
+msgid "Add extra roles"
+msgstr ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskCaseRole.html
+msgid "Replace existing roles"
+msgstr ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskCaseRole.html
+msgid "Adding roles..."
+msgstr ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskOpenCase.ctrl.js
+msgid "No cases to open."
+msgstr ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskOpenCase.ctrl.js
+msgid "All contacts skipped"
+msgstr ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskOpenCase.ctrl.js
+msgid "Successfully opened 1 case."
+msgid_plural "Successfully opened %count cases."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskOpenCase.ctrl.js
+msgid "View case"
+msgstr ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskOpenCase.html
+msgid "Multiple contacts selected..."
+msgstr ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskOpenCase.html
+msgid "Open new cases for each contact"
+msgstr ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskOpenCase.html
+msgid "Open a single case with all contacts jointly"
+msgstr ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskOpenCase.html
+msgid "Add Value"
+msgstr ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskOpenCase.html
+msgid "1 contact already has an open case."
+msgid_plural "%count contacts already have an open case."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskOpenCase.html
+msgid "Skip contact with open case"
+msgid_plural "Skip contacts with open cases"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskOpenCase.html
+msgid "Create new case anyway"
+msgid_plural "Create new cases anyway"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: ext/civi_case/ang/civiCaseTasks/civiCaseTaskOpenCase.html
+msgid "Opening case..."
+msgstr ""
+
+#: ext/civi_case/ang/crmCaseType/activityTypesTable.html
+msgid "Max Instances"
+msgstr "Maksymalnie wystąpień."
+
+#: ext/civi_case/ang/crmCaseType/activityTypesTable.html
+msgid "Add activity type"
+msgstr "Dodaj rodzaj aktywności"
+
+#: ext/civi_case/ang/crmCaseType/caseTypeDetails.html
+msgid "WARNING: The case type name includes deprecated characters."
+msgstr "OSTRZEŻENIE: Nazwa typu przypadku zawiera przestarzałe znaki."
+
+#: ext/civi_case/ang/crmCaseType/caseTypeDetails.html
+msgid ""
+"WARNING: If any external files or programs reference the old \"Name\", then "
+"they must be updated manually."
+msgstr ""
+"OSTRZEŻENIE: Jeśli jakieś zewnętrzne pliki lub programy odnoszą się do "
+"starej \"nazwy\", należy je aktualizować ręcznie."
+
+#: ext/civi_case/ang/crmCaseType/caseTypeDetails.html
+msgid "Activity assignment settings"
+msgstr ""
+
+#: ext/civi_case/ang/crmCaseType/caseTypeDetails.html
+#: ext/civi_case/ang/crmCaseType/rolesTable.html
+msgid "Restrict to Groups"
+msgstr ""
+
+#: ext/civi_case/ang/crmCaseType/caseTypeDetails.html
+msgid "Restrict to Website Users"
+msgstr ""
+
+#: ext/civi_case/ang/crmCaseType/edit.html
+#: ext/civi_case/ang/crmCaseType/list.html
+msgid "New Case Type"
+msgstr "Nowy typ przypadku"
+
+#: ext/civi_case/ang/crmCaseType/edit.html
+msgid ""
+"Use this screen to define or update the Case Roles, Activity Types, and "
+"Timelines for a case type."
+msgstr ""
+"Użyj tego ekranu, aby zdefiniować lub zaktualizować Role Przypadków, Rodzaje"
+" Przypadków, Osie Czasu dla typu przypadku."
+
+#: ext/civi_case/ang/crmCaseType/edit.html templates/CRM/Case/Audit/Report.tpl
+msgid "Case Roles"
+msgstr "Role przypadku"
+
+#: ext/civi_case/ang/crmCaseType/edit.html
+msgid "Case Statuses"
+msgstr "Statusy przypadków"
+
+#: ext/civi_case/ang/crmCaseType/edit.html
+msgid "Activity Types"
+msgstr ""
+
+#: ext/civi_case/ang/crmCaseType/edit.html
+msgid "Add..."
+msgstr "Dodaj..."
+
+#: ext/civi_case/ang/crmCaseType/edit.html
+msgid "Timeline"
+msgstr "Oś czasu"
+
+#: ext/civi_case/ang/crmCaseType/edit.html
+msgid "Sequence"
+msgstr "Sekwencja"
+
+#: ext/civi_case/ang/crmCaseType/list.html schema/Case/CaseType.entityType.php
+msgid "Case Types"
+msgstr "Typy przypadków"
+
+#: ext/civi_case/ang/crmCaseType/list.html
+msgid ""
+"A Case Type describes a group of related tasks, interactions, or processes."
+msgstr ""
+"Typ przypadku opisuje grupę powiązanych zadań, interakcji lub procesów."
+
+#: ext/civi_case/ang/crmCaseType/rolesTable.html
+msgid "Display Label"
+msgstr ""
+
+#: ext/civi_case/ang/crmCaseType/rolesTable.html
+msgid "Assign to Creator"
+msgstr "Przypisz do twórcy"
+
+#: ext/civi_case/ang/crmCaseType/rolesTable.html
+msgid "Is Manager"
+msgstr "Jest menadżerem"
+
+#: ext/civi_case/ang/crmCaseType/rolesTable.html
+msgid "Add role"
+msgstr "Dodaj rolę"
+
+#: ext/civi_case/ang/crmCaseType/statusTable.html
+msgid "New Status"
+msgstr "Nowy status"
+
+#: ext/civi_case/ang/crmCaseType/timelineTable.html
+msgid "Reference"
+msgstr "Odniesienia"
+
+#: ext/civi_case/ang/crmCaseType/timelineTable.html
+msgid "Offset"
+msgstr ""
+
+#: ext/civi_case/ang/crmCaseType/timelineTable.html
+msgid "Default assignee"
+msgstr "Domyślnie przypisany"
+
+#: ext/civi_case/ang/crmCaseType/timelineTable.html
+msgid "Newest"
+msgstr "Nowsze"
+
+#: ext/civi_case/ang/crmCaseType/timelineTable.html
+msgid "Oldest"
+msgstr "Starsze"
+
+#: ext/civi_case/ang/crmCaseType.js
+msgid "new"
+msgstr "nowy"
+
+#: ext/civi_case/ang/crmCaseType.js
+msgid ""
+"The CiviCase XML file for this case-type prohibits editing the definition."
+msgstr ""
+"Plik XML CiviCase dla tego typu przypadków zabrania edytowania definicji."
+
+#: ext/civi_case/settings/Case.setting.php
+msgid "Redact Activity Email"
+msgstr ""
+
+#: ext/civi_case/settings/Case.setting.php
+msgid ""
+"Should activity emails be redacted? (Set \"Default\" to load setting from "
+"the legacy \"Settings.xml\" file.)"
+msgstr ""
+
+#: ext/civi_case/settings/Case.setting.php
+msgid "Allow Multiple Case Clients"
+msgstr ""
+
+#: ext/civi_case/settings/Case.setting.php
+msgid ""
+"How many clients may be associated with a given case? (Set \"Default\" to "
+"load setting from the legacy \"Settings.xml\" file.)"
+msgstr ""
+
+#: ext/civi_case/settings/Case.setting.php
+msgid "Activity Type Sorting"
+msgstr ""
+
+#: ext/civi_case/settings/Case.setting.php
+msgid ""
+"How to sort activity-types on the \"Manage Case\" screen? (Set \"Default\" "
+"to load setting from the legacy \"Settings.xml\" file.)"
+msgstr ""
+
+#: ext/civi_case/settings/Case.setting.php
+msgid "Include case activities in general activity views."
+msgstr ""
+
+#: ext/civi_case/settings/Case.setting.php
+msgid ""
+"e.g. the Contact form's Activity tab listing. Without this ticked, "
+"activities that belong to a case are hidden (default behavior). Warning: "
+"enabling this option means that all case activities relating to a contact "
+"will be listed which could result in users without \"access all cases and "
+"activities\" permission being able to see see the summarized details (date, "
+"subject, assignees, status etc.). Such users will still be prevented from "
+"managing the case and viewing/editing the activity."
+msgstr ""
+
+#: schema/Case/Case.entityType.php
+msgid "Collections of activities and relationships for a given purpose."
+msgstr ""
+
+#: schema/Case/Case.entityType.php
+msgid "Unique Case ID"
+msgstr "Unikalny ID przypadku"
+
+#: schema/Case/Case.entityType.php schema/Case/CaseType.entityType.php
+msgid "Case Type ID"
+msgstr "ID rodzaju przypadku"
+
+#: schema/Case/Case.entityType.php
+msgid "FK to civicrm_case_type.id"
+msgstr ""
+
+#: schema/Case/Case.entityType.php
+msgid "Short name of the case."
+msgstr "Krótka nazwa tego przypadku"
+
+#: schema/Case/Case.entityType.php
+msgid "Date on which given case ends."
+msgstr ""
+
+#: schema/Case/Case.entityType.php
+msgid "Details populated from Open Case. Only used in the CiviCase extension."
+msgstr ""
+
+#: schema/Case/Case.entityType.php
+msgid "ID of case status."
+msgstr ""
+
+#: schema/Case/Case.entityType.php
+msgid "When was the case was created."
+msgstr ""
+
+#: schema/Case/Case.entityType.php
+msgid ""
+"When was the case (or closely related entity) was created or modified or "
+"deleted."
+msgstr ""
+
+#: schema/Case/CaseActivity.entityType.php templates/CRM/Case/Audit/Report.tpl
+msgid "Case Activities"
+msgstr "Aktywności przypadku"
+
+#: schema/Case/CaseActivity.entityType.php
+msgid "Joining table for case-activity associations."
+msgstr ""
+
+#: schema/Case/CaseActivity.entityType.php
+msgid "Case Activity ID"
+msgstr "Numer identyfikacyjny interakcji"
+
+#: schema/Case/CaseActivity.entityType.php
+msgid "Unique case-activity association id"
+msgstr ""
+
+#: schema/Case/CaseActivity.entityType.php
+msgid "Case ID of case-activity association."
+msgstr ""
+
+#: schema/Case/CaseActivity.entityType.php
+msgid "Activity ID of case-activity association."
+msgstr ""
+
+#: schema/Case/CaseContact.entityType.php
+msgid "Case Contact"
+msgstr ""
+
+#: schema/Case/CaseContact.entityType.php
+msgid "Case Contacts"
+msgstr ""
+
+#: schema/Case/CaseContact.entityType.php
+msgid "Joining table for case-contact associations."
+msgstr ""
+
+#: schema/Case/CaseContact.entityType.php
+msgid "Case Contact ID"
+msgstr "ID kontaktu przypadku"
+
+#: schema/Case/CaseContact.entityType.php
+msgid "Unique case-contact association id"
+msgstr ""
+
+#: schema/Case/CaseContact.entityType.php
+msgid "Case ID of case-contact association."
+msgstr ""
+
+#: schema/Case/CaseContact.entityType.php
+msgid "Contact ID of contact record given case belongs to."
+msgstr ""
+
+#: schema/Case/CaseType.entityType.php
+msgid "Case type definition"
+msgstr ""
+
+#: schema/Case/CaseType.entityType.php
+msgid "Autoincremented type id"
+msgstr ""
+
+#: schema/Case/CaseType.entityType.php
+msgid "Case Type Name"
+msgstr "Nazwa rodzaju przypadku"
+
+#: schema/Case/CaseType.entityType.php
+msgid "Machine name for Case Type"
+msgstr ""
+
+#: schema/Case/CaseType.entityType.php
+msgid "Case Type Title"
+msgstr "Przypadek typu tytułu. "
+
+#: schema/Case/CaseType.entityType.php
+msgid "Natural language name for Case Type"
+msgstr ""
+
+#: schema/Case/CaseType.entityType.php
+msgid "Case Type Description"
+msgstr "Opis rodzaju przypadku"
+
+#: schema/Case/CaseType.entityType.php
+msgid "Description of the Case Type"
+msgstr ""
+
+#: schema/Case/CaseType.entityType.php
+msgid "Case Type Is Active"
+msgstr "Rodzaj przypadku jest aktywny"
+
+#: schema/Case/CaseType.entityType.php
+msgid "Is this case type enabled?"
+msgstr ""
+
+#: schema/Case/CaseType.entityType.php
+msgid "Case Type Is Reserved"
+msgstr "Rodzaj przypadku jest zarezerwowany"
+
+#: schema/Case/CaseType.entityType.php
+msgid "Is this case type a predefined system type?"
+msgstr ""
+
+#: schema/Case/CaseType.entityType.php
+msgid "Ordering of the case types"
+msgstr ""
+
+#: schema/Case/CaseType.entityType.php
+msgid "Case Type Definition"
+msgstr "Definicja rodzaju przypadku"
+
+#: schema/Case/CaseType.entityType.php
+msgid "xml definition of case type"
+msgstr ""
+
+#: templates/CRM/Case/Audit/Report.tpl templates/CRM/Case/Page/DashBoard.tpl
+msgid "Case Summary"
+msgstr "Podsumowanie przypadku"
+
+#: templates/CRM/Case/Audit/Report.tpl templates/CRM/Case/Form/Activity.tpl
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "Case Role"
+msgstr "Rola przypadku"
+
+#: templates/CRM/Case/Audit/Report.tpl
+msgid "(not assigned)"
+msgstr "(nie przypisano)"
+
+#: templates/CRM/Case/Audit/Report.tpl templates/CRM/Case/Form/CaseView.tpl
+msgid "Client Relationship"
+msgstr "Powiązanie klienta"
+
+#: templates/CRM/Case/CaseType.hlp
+msgid ""
+"Selecting one or more groups here will limit the choices when assigning an "
+"activity."
+msgstr ""
+
+#: templates/CRM/Case/CaseType.hlp
+msgid ""
+"This will limit the choices when selecting an activity assignee to contacts "
+"with a user account on this website."
+msgstr ""
+
+#: templates/CRM/Case/Form/Activity/ChangeCaseStartDate.tpl
+msgid "Current Start Date"
+msgstr "Bieżąca data rozpoczęcia"
+
+#: templates/CRM/Case/Form/Activity/ChangeCaseStatus.tpl
+msgid "Update Linked Cases Status?"
+msgstr ""
+
+#: templates/CRM/Case/Form/Activity/LinkCases.tpl
+msgid "Create link between %1 - %2 (CaseID: %3) and %4 - %5 (CaseID: %6)"
+msgstr "Utwórz łącza pomiędzy  %1 - %2 (CaseID: %3) i %4 - %5 (CaseID: %6)"
+
+#: templates/CRM/Case/Form/Activity.tpl
+msgid "Click Delete to move this &quot;%1&quot; activity to the Trash."
+msgstr "Kliknij Usuń aby przesunąć %1  aktywności do kosza."
+
+#: templates/CRM/Case/Form/Activity.tpl
+msgid "Click Restore to retrieve this &quot;%1&quot; activity from the Trash."
+msgstr "Kliknij Przywróć aby przywrócić %1 aktywności z kosza."
+
+#: templates/CRM/Case/Form/Activity.tpl
+msgid "With other contact(s)"
+msgstr "Z innym kontaktem (kontaktami)"
+
+#: templates/CRM/Case/Form/Activity.tpl
+msgid "With client"
+msgstr "Z klientem"
+
+#: templates/CRM/Case/Form/Activity.tpl
+msgid "With client(s)"
+msgstr "Z klientem/klientami"
+
+#: templates/CRM/Case/Form/Activity.tpl
+msgid "Send a Copy"
+msgstr "Wyślij kopię"
+
+#: templates/CRM/Case/Form/Activity.tpl
+msgid ""
+"Email a complete copy of this activity record to other people involved with "
+"the case. Click the top left box to select all."
+msgstr ""
+"Wyślij e-mailem pełną kopię tej interakcji innym osobom zaangażowanym w "
+"przypadek. Kliknij w lewym górnym rogu, aby wybrać wszystkie."
+
+#: templates/CRM/Case/Form/ActivityTab.tpl
+msgid "Search Filters"
+msgstr "Filtry poszukiwania"
+
+#: templates/CRM/Case/Form/ActivityTab.tpl
+msgid "Reporter"
+msgstr "Raportujący"
+
+#: templates/CRM/Case/Form/ActivityTab.tpl
+msgid "Assignee"
+msgstr ""
+
+#: templates/CRM/Case/Form/ActivityToCase.tpl
+msgid "You can modify the activity subject before filing."
+msgstr "Możesz modyfikować temat interakcji przed wypełnieniem"
+
+#: templates/CRM/Case/Form/ActivityToCase.tpl
+msgid "Please select a case from the list"
+msgstr "Proszę wybrać przypadek z listy"
+
+#: templates/CRM/Case/Form/ActivityToCase.tpl
+msgid "Unable to file on case."
+msgstr "Nie można przypisać do przypadku."
+
+#: templates/CRM/Case/Form/ActivityToCase.tpl
+msgid "Activity has been filed to %1 case."
+msgstr "interakcja została przypisana do %1. "
+
+#: templates/CRM/Case/Form/ActivityView.tpl
+msgid "Prompted by"
+msgstr "Poproszone przez"
+
+#: templates/CRM/Case/Form/Case.hlp
+msgid "Introduce yourself and your role within our organization."
+msgstr "Przedstaw siebie i twoją rolę w naszej organizacji. "
+
+#: templates/CRM/Case/Form/Case.hlp
+msgid ""
+"&quot;All of the information that you provide to us or any of our "
+"representatives and service providers will be held in strictest confidence. "
+"It will not be used for any purpose other than to help you, and for any "
+"other purpose that you authorize in writing, or which is required by "
+"law.&quot;"
+msgstr ""
+"\"Wszystkie informacje, które przekazujesz do nas lub jakikolwiek z naszych "
+"przedstawicieli i dostawców usług, będą odbywały się w najszerszym zaufaniu."
+" Nie będzie on wykorzystywany do celów innych niż pomoc, w dowolnym innym "
+"celu, na który zezwala się na piśmie lub wymagany przez prawo.\""
+
+#: templates/CRM/Case/Form/Case.hlp
+msgid "&quot;Please tell me what you would like to discuss.&quot;"
+msgstr "&quot;Powiedz o czym chcesz porozmawiać&quot;"
+
+#: templates/CRM/Case/Form/Case.hlp
+msgid "Reflect client's story back to them."
+msgstr "Odzwierciedla historię klienta aż do wtedy."
+
+#: templates/CRM/Case/Form/Case.hlp
+msgid "Guess client's feelings and needs."
+msgstr "Zgadnij uczucia i potrzeby klienta"
+
+#: templates/CRM/Case/Form/Case.hlp
+msgid "&quot;May I now ask you some screening questions?&quot;"
+msgstr "&quot;Mogę się spytać o kilka rzeczy?&quot;"
+
+#: templates/CRM/Case/Form/Case.hlp
+msgid "Record details about this activity here."
+msgstr "Tutaj zarejestruj szczegóły zdarzenia."
+
+#: templates/CRM/Case/Form/Case.hlp
+msgid "Provide a one-line summary of what this case is about."
+msgstr ""
+"Podaj jedno streszczenie podsumowanie tego, co dotyczy niniejszego "
+"przypadku."
+
+#: templates/CRM/Case/Form/Case.hlp
+msgid ""
+"Offer the appropriate service from the list. If the service requires "
+"coordination, contact the Director."
+msgstr ""
+"Zaoferuj odpowiednią usługę z listy. Jeśli usługa wymaga koordynacji, "
+"skontaktuj się z dyrektorem."
+
+#: templates/CRM/Case/Form/Case.tpl
+msgid ""
+"Click Delete to move this case and all associated activities to the Trash."
+msgstr ""
+"Kliknij usuń, aby przenieść ten przypadek i wszystkie powiązane działania do"
+" kosza."
+
+#: templates/CRM/Case/Form/Case.tpl
+msgid ""
+"Click Restore to retrieve this case and all associated activities from the "
+"Trash."
+msgstr ""
+"Kliknij przywróć aby odzyskać ten przypadek i wszystkie powiązane aktywności"
+" z kosza."
+
+#: templates/CRM/Case/Form/CaseFilter.tpl
+msgid "Filter by Case"
+msgstr ""
+
+#: templates/CRM/Case/Form/CaseView.js
+msgid "Add the %1 set of scheduled activities to this case?"
+msgstr "Dodać %1 zestawu zaplanowanych aktywności do tego przypadku?"
+
+#: templates/CRM/Case/Form/CaseView.js
+msgid "Please select a value"
+msgstr "Wybierz wartość"
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "Clients:"
+msgstr "Klienci:"
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "Remove Client"
+msgstr ""
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "Add Client"
+msgstr "Dodaj klienta"
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "Email: %1"
+msgstr ""
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "DOB"
+msgstr "Data urodzenia"
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "Change case type (creates activity record)"
+msgstr "Zmień rodzaj przypadku (tworzy interakcję)"
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "Change case status (creates activity record)"
+msgstr "Zmień status przypadku (tworzy interakcję)"
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "Change case start date (creates activity record)"
+msgstr "Zmień datę początkową przypadku (tworzy interakcję)"
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "Export Document"
+msgstr "Eksportuj dokumenty"
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "Add new role"
+msgstr "Dodaj nową rolę"
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "Assign To"
+msgstr "Przypisz do"
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "Change To"
+msgstr "Zmień na"
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "Show Inactive relationships"
+msgstr ""
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "Are you sure you want to end this relationship?"
+msgstr "Czy jesteś pewien że chcesz edytować to powiązanie?"
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "Other Relationships"
+msgstr "Inne relacje"
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "Add client relationship"
+msgstr "Dodaj klienta do relacji"
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "Add members to %1"
+msgstr "Dodaj członków do %1"
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "- select contacts -"
+msgstr "-  wybrane kontakty -"
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "Case Tags"
+msgstr "Tagi do przypadku"
+
+#: templates/CRM/Case/Form/CaseView.tpl
+msgid "There are no tags currently assigned to this case."
+msgstr "Nie ma tagów obecnie przypisanych do tego przypadku. "
+
+#: templates/CRM/Case/Form/DeleteClient.tpl
+msgid "Remove Client %1 from case %2"
+msgstr ""
+
+#: templates/CRM/Case/Form/EditClient.tpl
+msgid "This is case is currently assigned to %1."
+msgstr "Ten przypadek jest obecnie przypisany do %1."
+
+#: templates/CRM/Case/Form/Report.tpl
+msgid "Report Parameters"
+msgstr "Parametry raportu"
+
+#: templates/CRM/Case/Form/Search/EmptyResults.tpl
+msgid "if you are searching by client name, check your spelling"
+msgstr "jeśli szukasz po nazwie klienta, sprawdź pisownię;"
+
+#: templates/CRM/Case/Form/Selector.tpl
+msgid "Find more cases"
+msgstr "Odnajdź więcej przypadków"
+
+#: templates/CRM/Case/Form/Task/Delete.tpl
+msgid ""
+"Are you sure you want to delete the selected cases? This will move the "
+"case(s) and all associated activities to the Trash."
+msgstr ""
+"Na pewno chcesz usunąć wybrane przypadki? Spowoduje to przesunięcie "
+"przypadku(ów) i wszystkich powiązanych czynności do kosza"
+
+#: templates/CRM/Case/Form/Task/Print.tpl
+msgid "Most Recent Activity"
+msgstr "Ostatnie zdarzenie"
+
+#: templates/CRM/Case/Form/Task/Print.tpl
+msgid "Next Scheduled Activity"
+msgstr "Następne zaplanowane zdarzenie"
+
+#: templates/CRM/Case/Form/Task/Restore.tpl
+msgid ""
+"Are you sure you want to restore the selected cases? This operation will "
+"retrieve the case(s) and all associated activities from Trash."
+msgstr ""
+"Na pewno chcesz przywrócić wybrane przypadki? Spowoduje to odzyskanie "
+"przypadku(ów) i wszystkich powiązanych czynności z kosza."
+
+#: templates/CRM/Case/Form/Task.tpl
+msgid "Number of selected cases: %1"
+msgstr "Liczba wybranych przypadków : %1"
+
+#: templates/CRM/Case/Page/ConfigureError.tpl
+msgid "CiviCase Setup documentation"
+msgstr "Dokumentacja implementacji CiviCase "
+
+#: templates/CRM/Case/Page/ConfigureError.tpl
+msgid ""
+"You need to setup and load Case and Activity configuration files before you "
+"can begin using the CiviCase component."
+msgstr ""
+"Przed rozpoczęciem korzystania z komponentu CiviCase musisz skonfigurować i "
+"załadować pliki konfiguracji przypadków i interakcji. "
+
+#: templates/CRM/Case/Page/ConfigureError.tpl
+msgid "Refer to the %1 to learn about this process."
+msgstr "Więcej informacji na ten temat można znaleźć w sekcji% 1."
+
+#: templates/CRM/Case/Page/DashBoard.tpl
+msgid "Show Only My Cases"
+msgstr ""
+
+#: templates/CRM/Case/Page/DashBoard.tpl
+msgid "Find My Cases"
+msgstr "Wyszukaj Moje przypadki"
+
+#: templates/CRM/Case/Page/DashBoard.tpl
+msgid "My Cases With Upcoming Activities"
+msgstr "Moje przypadki, z nadchodzącymi aktywnościami"
+
+#: templates/CRM/Case/Page/DashBoard.tpl
+msgid "All Cases With Upcoming Activities"
+msgstr "Wszystkie przypadki z nadchodzącymi aktywnościami."
+
+#: templates/CRM/Case/Page/DashBoard.tpl
+msgid ""
+"There are no open cases with activities scheduled in the next two weeks. Use"
+" %1 to expand your search."
+msgstr ""
+"W ciągu najbliższych dwóch tygodni nie ma otwartych przypadków, w których "
+"zaplanowano działania. Użyj %1, aby rozwinąć wyszukiwanie."
+
+#: templates/CRM/Case/Page/DashBoard.tpl
+msgid "My Cases With Recently Performed Activities"
+msgstr "Moje przypadki, z niedawno wykonanymi aktywnościami."
+
+#: templates/CRM/Case/Page/DashBoard.tpl
+msgid "All Cases With Recently Performed Activities"
+msgstr "Moje przypadki, z niedawno wykonanymi aktywnościami."
+
+#: templates/CRM/Case/Page/DashBoard.tpl
+msgid ""
+"There are no cases with activities scheduled in the past two weeks. Use %1 "
+"to expand your search."
+msgstr ""
+"W ciągu ostatnich dwóch tygodni nie było zaplanowano aktywności. Użyj %1, "
+"aby rozwinąć wyszukiwanie."
+
+#: templates/CRM/Case/Page/DashboardSelector.tpl
+msgid "Manager"
+msgstr "Menadżer"
+
+#: templates/CRM/Case/Page/Tab.tpl
+msgid "It looks like there are no active case types yet."
+msgstr ""
+
+#: templates/CRM/Case/Page/Tab.tpl
+msgid "Enable <a href='%1'>case types</a>."
+msgstr "Włączyć <a href='%1'>typ przypadku </a>."
+
+#: templates/CRM/Case/Page/Tab.tpl
+msgid "This page lists all case records for %1."
+msgstr "Ta strona zawiera listę wszystkich rekordów przypadku dla %1. "
+
+#: templates/CRM/Case/Page/Tab.tpl
+msgid "Click <a %1>Add Case</a> to add a case record for this contact."
+msgstr ""
+"Kliknij <a %1>dodaj przypadek </a> aby dodać przypadek do tego kontaktu."
+
+#: templates/CRM/Case/Page/Tab.tpl
+msgid "There are no case records for this contact."
+msgstr "Nie ma przypadków dla tego kontaktu."
+
+#: xml/templates/message_templates/case_activity_html.tpl
+msgid "Activity Summary"
+msgstr "Podsumowanie aktywności"
+
+#: xml/templates/message_templates/case_activity_html.tpl
+msgid "Your Case Role(s)"
+msgstr "Twoje role przypadku"
+
+#: ext/civi_case/Civi/Api4/Service/Spec/Provider/CaseManagerSpecProvider.php
+msgid "Contact currently holding the case-type's manager role for this case."
+msgstr ""
+
+#: ext/civi_case/Civi/Api4/Service/Spec/Provider/CaseRoleSpecProvider.php
+msgid "The relationship role(s) the logged-in user holds on this case."
+msgstr ""
+
+#: ext/civi_case/Civi/Api4/Service/Spec/Provider/CaseRoleSpecProvider.php
+msgid "Is My Case"
+msgstr ""
+
+#: ext/civi_case/Civi/Api4/Service/Spec/Provider/CaseRoleSpecProvider.php
+msgid ""
+"Whether the logged-in user holds any active relationship role on this case."
+msgstr ""
+
+#: ext/civi_case/Civi/Api4/Service/Spec/Provider/CaseRoleSpecProvider.php
+msgid "I Am Case Manager"
+msgstr ""
+
+#: ext/civi_case/Civi/Api4/Service/Spec/Provider/CaseRoleSpecProvider.php
+msgid ""
+"Whether the logged-in user is the configured case manager for this case."
+msgstr ""
+
+#: ext/civi_case/ang/crmCaseType/sequenceTable.html
+#: ext/civi_case/ang/crmCaseType/timelineTable.html
+msgid "Default subject"
+msgstr ""

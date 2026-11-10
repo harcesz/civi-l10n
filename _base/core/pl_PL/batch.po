@@ -1,0 +1,230 @@
+# Copyright CiviCRM LLC (c) 2004-2015
+# This file is distributed under the same license as the CiviCRM package.
+# If you contribute heavily to a translation and deem your work copyrightable,
+# make sure you license it to CiviCRM LLC under Academic Free License 3.0.
+# Translators:
+# MichDem <10mkudela@gmail.com>, 2012
+# Czauderna Tomasz <tczaude@gmail.com>, 2014
+# Dariusz Koryto <dariusz@koryto.eu>, 2020
+# Jakub Karczyński <karczynski.jakub@staroflife.pl>, 2017
+# Karol Rymszewicz, 2022
+# Karol Rymszewicz, 2022
+# Marcin Lewandowski <email.marcina.lewandowskiego@gmail.com>, 2017-2018,2020
+# MichDem <10mkudela@gmail.com>, 2012
+# Sergey <kovalski1601@gmail.com>, 2015
+# Wiktor Jezioro <wikjezioro@op.pl>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: CiviCRM\n"
+"POT-Creation-Date: 2025-02-15 13:48-0500\n"
+"PO-Revision-Date: 2012-07-24 20:42+0000\n"
+"Last-Translator: Wiktor Jezioro <wikjezioro@op.pl>, 2017\n"
+"Language-Team: Polish (http://app.transifex.com/civicrm/civicrm/language/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: CRM/Batch/BAO/Batch.php
+msgid "Batch %1"
+msgstr "Seria %1"
+
+#: CRM/Batch/BAO/Batch.php
+msgid "Transactions"
+msgstr "Transakcje"
+
+#: CRM/Batch/BAO/Batch.php
+msgid "View/Add Transactions to Batch"
+msgstr "Pokaż/dodaj transakcje do serii"
+
+#: CRM/Batch/BAO/Batch.php
+msgid "Edit Batch"
+msgstr ""
+
+#: CRM/Batch/BAO/Batch.php
+msgid "Re-open Batch"
+msgstr "Ponownie otwórz serię"
+
+#: CRM/Batch/BAO/Batch.php
+msgid "Delete Batch"
+msgstr "Kasuj zestaw transakcji"
+
+#: CRM/Batch/BAO/Batch.php
+msgid "Download"
+msgstr ""
+
+#: CRM/Batch/BAO/Batch.php
+msgid "Download Batch"
+msgstr "Pobierz serię"
+
+#: CRM/Batch/BAO/Batch.php
+msgid "Enter records"
+msgstr "Wprowadź rekordy"
+
+#: CRM/Batch/BAO/Batch.php
+msgid "Batch Data Entry"
+msgstr "Seryjne wprowadzanie danych"
+
+#: CRM/Batch/BAO/Batch.php
+msgid "Expected Total"
+msgstr "Suma oczekiwana"
+
+#: CRM/Batch/BAO/Batch.php
+msgid "No batches were selected."
+msgstr "Nie zaznaczono żadnej serii"
+
+#: CRM/Batch/BAO/Batch.php
+msgid "No export format selected."
+msgstr "Nie wybrano formatu eksportu"
+
+#: CRM/Batch/BAO/EntityBatch.php
+msgid ""
+"You cannot add items of two different currencies to a single contribution "
+"batch. Batch id %1 currency: %2. Entity id %3 currency: %4."
+msgstr ""
+
+#: CRM/Batch/BAO/EntityBatch.php
+msgid ""
+"This batch is configured to include only transactions using %1 payment "
+"method. If you want to include other transactions, please edit the batch "
+"first and modify the Payment Method."
+msgstr ""
+
+#: CRM/Batch/Form/Batch.php
+msgid "Batch Deleted"
+msgstr "Grupa została usunięta"
+
+#: CRM/Batch/Form/Entry.php
+msgid "Profile for bulk data entry is missing."
+msgstr "Profilu dla dużej ilości danych brakuje"
+
+#: CRM/Batch/Form/Entry.php
+msgid "Batch Data Entry for Contributions"
+msgstr "Szybkie wprowadzanie danych dla transakcji"
+
+#: CRM/Batch/Form/Entry.php
+msgid "Batch Data Entry for Memberships"
+msgstr "Szybkie wprowadzanie danych dla członkostwa"
+
+#: CRM/Batch/Form/Entry.php
+msgid "Batch Data Entry for Pledge Payments"
+msgstr "Szybkie wprowadzanie danych dla deklaracji wpłat"
+
+#: CRM/Batch/Form/Entry.php
+msgid "Ignore Mismatch & Process the Batch?"
+msgstr "Ignoruj niedopasowanie & procesuj serię?"
+
+#: CRM/Batch/Form/Entry.php
+msgid "Validate & Process the Batch"
+msgstr "Zweryfikuj i wykonaj serię"
+
+#: CRM/Batch/Form/Entry.php
+msgid "Save & Continue Later"
+msgstr "Zapisz i dokończ później"
+
+#: CRM/Batch/Form/Entry.php
+msgid ""
+"Batch size is too large. Increase value of php.ini setting "
+"\"max_input_vars\" (current val = %1)"
+msgstr ""
+
+#: CRM/Batch/Form/Entry.php
+msgid "Transaction ID must be unique within the database"
+msgstr "ID transakcji musi być unikatowy w bazie danych"
+
+#: CRM/Batch/Form/Entry.php
+msgid "Soft credit amount should not be greater than the total amount"
+msgstr "Kwota darowizny pośredniej nie powinna być wyższa od całej sumy."
+
+#: CRM/Batch/Form/Entry.php
+msgid "Membership type is a required field."
+msgstr "Typ członkowstwa jest polem obowiązkowym"
+
+#: CRM/Batch/Form/Entry.php
+msgid "You can not record two payments for the same pledge in a single batch."
+msgstr "Nie możesz zarejestrować dwóch rodzajów płatności do tej samej deklaracji w pojedynczej serii."
+
+#: CRM/Batch/Form/Entry.php templates/CRM/Batch/Form/Entry.tpl
+msgid ""
+"Total for amounts entered below does not match the expected batch total."
+msgstr "Pełna kwota wprowadzona poniżej nie pasuje do spodziewanej całkowitej seria."
+
+#: CRM/Batch/Form/Entry.php
+msgid "Batch Processed."
+msgstr "Serię przetworzono."
+
+#: CRM/Batch/Form/Entry.php
+msgid "Batch entry"
+msgstr ""
+
+#: CRM/Batch/Page/Batch.php
+msgid "Batch Processing"
+msgstr "Przetwarzanie"
+
+#: templates/CRM/Batch/Form/Batch.tpl
+msgid "Delete Data Entry Batch"
+msgstr "Usuń serię wprowadzenia danych"
+
+#: templates/CRM/Batch/Form/Batch.tpl
+msgid "Edit Data Entry Batch"
+msgstr "Usuń serię wprowadzenia danych"
+
+#: templates/CRM/Batch/Form/Batch.tpl templates/CRM/Batch/Form/Search.tpl
+msgid "New Data Entry Batch"
+msgstr "Nowa seria wprowadzonych danych"
+
+#: templates/CRM/Batch/Form/Batch.tpl
+msgid ""
+"WARNING: Deleting this batch will result in the loss of all data entered for"
+" the batch."
+msgstr "UWAGA: Usunięcie tej serii spowoduje skasowanie wszystkich danych dla tej serii."
+
+#: templates/CRM/Batch/Form/Entry.tpl
+msgid ""
+"Click Validate & Process below when you've entered all items for the batch. "
+"You can also Save & Continue Later at any time."
+msgstr "Kliknij przycisk sprawdź i przetwarzaj poniżej, gdy wszystkie elementy są wczytywane do partii. Możesz też zachować i kontynuować później w każdej chwili. "
+
+#: templates/CRM/Batch/Form/Entry.tpl
+msgid ""
+"Add, remove or change the order of columns by editing the corresponding <a "
+"href=\"%1\" target=\"_blank\">Bulk Entry profile</a>."
+msgstr "Dodaj, usuń albo zmień według kolumn poprzez edytowanie korespondujących <a href=\"%1\" target=\"_blank\">profilów wprowadzenia objętości </a>."
+
+#: templates/CRM/Batch/Form/Entry.tpl
+msgid ""
+"Custom fields and a Personal Campaign Page field can be added if needed."
+msgstr "Niestandardowe pola i pole personalnej kampanii strony może zostać dodane jeśli tego potrzeba. "
+
+#: templates/CRM/Batch/Form/Entry.tpl
+msgid "Total amount expected"
+msgstr "Suma kwot"
+
+#: templates/CRM/Batch/Form/Entry.tpl
+msgid "Total amount entered"
+msgstr "Suma kwot wprowadzonych"
+
+#: templates/CRM/Batch/Form/Entry.tpl
+msgid "Open Pledges (Due Date - Amount)"
+msgstr "Otwórz deklaracje (według czasu - kwota) "
+
+#: templates/CRM/Batch/Form/Entry.tpl
+msgid "Attached"
+msgstr "W załączeniu"
+
+#: templates/CRM/Batch/Form/Search.tpl
+msgid "Data Entry Batches"
+msgstr "Serie wprowadzenia danych"
+
+#: templates/CRM/Batch/Form/Search.tpl
+msgid "No matching Data Entry Batches found for your search criteria."
+msgstr "Nie ma pasujących serii wprowadzanych danych do twoich kryteriów poszukiwań."
+
+#: templates/CRM/Batch/Form/Search.tpl
+msgid "You do not have any Open Data Entry Batches."
+msgstr "Nie masz żadnych otwartych serii wprowadzanych informacji."
+
+#: templates/CRM/Batch/Form/Search.tpl
+msgid "No Data Entry Batches have been created for this site."
+msgstr "Żadna seria wprowadzonych danych nie została stworzona dla tej strony."

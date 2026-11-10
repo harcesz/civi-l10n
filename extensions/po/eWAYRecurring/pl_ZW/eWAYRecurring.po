@@ -1,0 +1,347 @@
+# Copyright CiviCRM LLC (c) 2004-2015
+# This file is distributed under the same license as the CiviCRM package.
+# If you contribute heavily to a translation and deem your work copyrightable,
+# make sure you license it to CiviCRM LLC under Academic Free License 3.0.
+# Translators:
+# Pat Smo, 2025
+# Marcin Lewandowski <email.marcina.lewandowskiego@gmail.com>, 2026
+# Karolina Pomarańska <karolina@caltha.pl>, 2026
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: eWAYRecurring\n"
+"POT-Creation-Date: 2026-10-29 10:01+0100\n"
+"Last-Translator: Karolina Pomarańska <karolina@caltha.pl>, 2026\n"
+"Language-Team: Polish (https://app.transifex.com/civicrm/teams/1905/pl/)\n"
+"Language: pl_ZW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && "
+"(n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && "
+"n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: CRM/Core/Payment/eWAYRecurring.php
+msgid "Error"
+msgstr "Błąd"
+
+#: CRM/Core/Payment/eWAYRecurring.php
+msgid "Stored Credit Card"
+msgstr ""
+
+#: CRM/Core/Payment/eWAYRecurring.php
+msgid ""
+"Credit card details are entered directly into eWAY and not stored in "
+"CiviCRM. %1"
+msgstr ""
+
+#: CRM/Core/Payment/eWAYRecurring.php
+msgid "Learn more on eWAY's PCI DSS page"
+msgstr ""
+
+#: CRM/Core/Payment/eWAYRecurring.php
+msgid "Add Credit Card"
+msgstr ""
+
+#: CRM/Core/Payment/eWAYRecurring.php
+msgid ""
+"Please be sure to click <b>RETURN TO MERCHANT</b> after adding a credit card."
+msgstr ""
+
+#: CRM/Core/Payment/eWAYRecurring.php
+msgid "eWay - Gateway requires curl with SSL support"
+msgstr ""
+
+#: CRM/Core/Payment/eWAYRecurring.php
+msgid "Please update the credit card manually."
+msgstr ""
+
+#: CRM/Core/Payment/eWAYRecurring.php
+msgid "eWay warning"
+msgstr ""
+
+#: CRM/Core/Payment/eWAYRecurring.php
+msgid "eWay API Key is not set for this payment processor"
+msgstr ""
+
+#: CRM/Core/Payment/eWAYRecurring.php
+msgid "eWay API Password is not set for this payment processor"
+msgstr ""
+
+#: CRM/Core/Payment/eWAYRecurring.php
+msgid "Attempted to update billing details for a completed contribution."
+msgstr ""
+
+#: CRM/Core/Payment/eWAYRecurring.php
+msgid "Attempted to update billing details for a cancelled contribution."
+msgstr ""
+
+#: CRM/eWAYRecurring/Form/Settings.php
+msgid "Submit"
+msgstr "Wyślij"
+
+#: CRM/eWAYRecurring/Page/VerifyUpdateToken.php
+msgid "Failed to update billing details, Error: %1"
+msgstr ""
+
+#: CRM/eWAYRecurring/Page/VerifyUpdateToken.php
+msgid "Update Billing Details"
+msgstr ""
+
+#: CRM/eWAYRecurring/Page/VerifyUpdateToken.php
+msgid "Billing details has been updated successfully."
+msgstr ""
+
+#: CRM/eWAYRecurring/PaymentToken.php
+msgid "Error retrieving data for token id %1: %2"
+msgstr ""
+
+#: CRM/eWAYRecurring/ProcessTrait.php
+msgid "Transaction Error"
+msgstr ""
+
+#: CRM/eWAYRecurring/ProcessTrait.php
+msgid "Contribution Error"
+msgstr ""
+
+#: CRM/eWAYRecurring/Upgrader.php
+msgid ""
+"Version 2.x of the eWay Payment Processor extension uses the new eWay Rapid "
+"API. Please go to the <a href=\"%2\">Payment Processor page</a> and update "
+"the eWay API credentials with the new API Key and API Password. For more "
+"details see the <a href=\"%1\">upgrade notes</a>."
+msgstr ""
+
+#: ang/afsearchFailedRecurringContributions.aff.php
+#: managed/Navigation_afsearchFailedRecurringContributions.mgd.php
+#: managed/SavedSearch_Failed_Recurring_Contributions.mgd.php
+msgid "Failed Recurring Contributions"
+msgstr ""
+
+#: ang/ewayrecurring/crmSearchTaskResetRecur.ctrl.js
+msgid "au.com.agileware.ewayrecurring"
+msgstr ""
+
+#: ang/ewayrecurring/crmSearchTaskResetRecur.ctrl.js
+msgid "In Progress"
+msgstr ""
+
+#: ang/ewayrecurring/crmSearchTaskResetRecur.ctrl.js
+msgid ""
+"Clear the failures on %1 selected recurring contribution and reset its "
+"status to \"%2\""
+msgid_plural ""
+"Clear the failures on %1 selected recurring contributions and reset their "
+"statuses to \"%2\""
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: ang/ewayrecurring/crmSearchTaskResetRecur.ctrl.js
+msgid "Successfully reactivated %1 Recurring Contributions."
+msgstr ""
+
+#: ang/ewayrecurring/crmSearchTaskResetRecur.ctrl.js
+msgid "Reactivation Complete"
+msgstr ""
+
+#: ang/ewayrecurring/crmSearchTaskResetRecur.ctrl.js
+msgid ""
+"An error occurring while attempting to reactivate %1 Recurring Contributions."
+msgstr ""
+
+#: ang/ewayrecurring/crmSearchTaskResetRecur.ctrl.js
+msgid "Reactivation Error"
+msgstr ""
+
+#: ang/ewayrecurring/crmSearchTaskResetRecur.html
+msgid "Update Schedule Date"
+msgstr ""
+
+#: ang/ewayrecurring/crmSearchTaskResetRecur.html
+msgid "Update the next scheduled payment date. Leave blank for no change."
+msgstr ""
+
+#: ang/ewayrecurring/crmSearchTaskResetRecur.html
+msgid "Reactivating Recurring Contributions..."
+msgstr ""
+
+#: ang/ewayrecurring/crmSearchTaskResetRecur.html
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: ang/ewayrecurring/crmSearchTaskResetRecur.html
+msgid "Reactivate Recurring Contributions"
+msgstr ""
+
+#: eWAYRecurring.php
+msgid "API Key is a required field."
+msgstr ""
+
+#: eWAYRecurring.php
+msgid "API Password is a required field."
+msgstr ""
+
+#: eWAYRecurring.php
+msgid ""
+"A transaction has already been submitted, but failed. Continuing will result "
+"in a new transaction."
+msgstr ""
+
+#: eWAYRecurring.php
+msgid "Payment already completed for this Registration"
+msgstr ""
+
+#: eWAYRecurring.php
+msgid "Payment already completed for this Contribution"
+msgstr ""
+
+#: eWAYRecurring.php
+msgid "eWay Recurring Settings"
+msgstr ""
+
+#: eWAYRecurring.php
+msgid "CiviContribute: view payment tokens"
+msgstr ""
+
+#: eWAYRecurring.php
+msgid "CiviContribute: edit payment tokens"
+msgstr ""
+
+#: eWAYRecurring.php managed/SavedSearch_Failed_Recurring_Contributions.mgd.php
+msgid "Reactivate"
+msgstr ""
+
+#: eWAYRecurring.php
+msgid ""
+"Found %1 failed recurring contributions that may be stuck due to e.g. "
+"invalid card details. Visit <a href=\"%2\">Failed Recurring Contributions</"
+"a> for more details ."
+msgstr ""
+
+#: eWAYRecurring.php
+msgid "eWAYRecurring - failed recurring contributions"
+msgstr ""
+
+#: js/eway.js
+msgid "The credit card list has been updated."
+msgstr ""
+
+#: js/eway.js
+msgid "eWay"
+msgstr ""
+
+#: js/eway.js
+msgid "processing"
+msgstr ""
+
+#: js/eway.js
+msgid "done"
+msgstr ""
+
+#: js/eway.js
+msgid "The credit card was not saved. Please try again."
+msgstr ""
+
+#: js/eway.js
+msgid "eWAY Error"
+msgstr ""
+
+#: managed/SavedSearch_Failed_Recurring_Contributions.mgd.php
+msgid "Failed Recurring Contribution Listing"
+msgstr ""
+
+#: managed/SavedSearch_Failed_Recurring_Contributions.mgd.php
+msgid "Contact"
+msgstr "Kontakt"
+
+#: managed/SavedSearch_Failed_Recurring_Contributions.mgd.php
+msgid "View Contact"
+msgstr ""
+
+#: managed/SavedSearch_Failed_Recurring_Contributions.mgd.php
+#: schema/EwayContributionTransactions.entityType.php
+msgid "ID"
+msgstr "ID"
+
+#: managed/SavedSearch_Failed_Recurring_Contributions.mgd.php
+msgid "Start Date"
+msgstr "Data rozpoczęcia"
+
+#: managed/SavedSearch_Failed_Recurring_Contributions.mgd.php
+msgid "Next Scheduled Date"
+msgstr ""
+
+#: managed/SavedSearch_Failed_Recurring_Contributions.mgd.php
+#: schema/EwayContributionTransactions.entityType.php
+msgid "Status"
+msgstr "Status"
+
+#: managed/SavedSearch_Failed_Recurring_Contributions.mgd.php
+msgid "Amount"
+msgstr "Kwota"
+
+#: managed/SavedSearch_Failed_Recurring_Contributions.mgd.php
+msgid "Frequency"
+msgstr "Częstotliwość"
+
+#: managed/SavedSearch_Failed_Recurring_Contributions.mgd.php
+msgid "Number of Failures"
+msgstr ""
+
+#: managed/SavedSearch_Failed_Recurring_Contributions.mgd.php
+msgid "Retry Failed Attempt On"
+msgstr ""
+
+#: schema/EwayContributionTransactions.entityType.php
+msgid "Eway Contribution Transactions"
+msgstr ""
+
+#: schema/EwayContributionTransactions.entityType.php
+msgid "Eway Contribution Transactionses"
+msgstr ""
+
+#: schema/EwayContributionTransactions.entityType.php
+msgid "FIXME"
+msgstr ""
+
+#: schema/EwayContributionTransactions.entityType.php
+msgid "Unique EwayContributionTransactions ID"
+msgstr ""
+
+#: schema/EwayContributionTransactions.entityType.php
+msgid "Contribution ID"
+msgstr "Identyfikator wkładu"
+
+#: schema/EwayContributionTransactions.entityType.php
+msgid "FK to Contribution"
+msgstr ""
+
+#: schema/EwayContributionTransactions.entityType.php
+msgid "Payment Processor ID"
+msgstr ""
+
+#: schema/EwayContributionTransactions.entityType.php
+msgid "FK to PaymentProcessor"
+msgstr ""
+
+#: schema/EwayContributionTransactions.entityType.php
+msgid "Access Code"
+msgstr ""
+
+#: schema/EwayContributionTransactions.entityType.php
+msgid "Failed Message"
+msgstr ""
+
+#: schema/EwayContributionTransactions.entityType.php
+msgid "Tries"
+msgstr ""
+
+#: schema/EwayContributionTransactions.entityType.php
+msgid "Is Email Receipt"
+msgstr ""
+
+#: schema/EwayContributionTransactions.entityType.php
+msgid "Should CRM send receipt email when payment completed?"
+msgstr ""

@@ -1,0 +1,76 @@
+# Copyright CiviCRM LLC (c) 2004-2015
+# This file is distributed under the same license as the CiviCRM package.
+# If you contribute heavily to a translation and deem your work copyrightable,
+# make sure you license it to CiviCRM LLC under Academic Free License 3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: theisland\n"
+"POT-Creation-Date: 2026-10-01 11:02+0200\n"
+"Language-Team: Polish (https://app.transifex.com/civicrm/teams/1905/pl/)\n"
+"Language: pl_ZW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && "
+"(n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && "
+"n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: Civi/Theisland/CheckLegacySettings.php
+msgid "TheIsland - Legacy backend theme"
+msgstr ""
+
+#: Civi/Theisland/CheckLegacySettings.php
+msgid "TheIsland - Legacy frontend theme"
+msgstr ""
+
+#: Civi/Theisland/CheckLegacySettings.php
+msgid ""
+"You are using the legacy version of TheIsland (%1). Please switch your theme "
+"to TheIsland + River (or another River-based theme) under Administer > "
+"Customize Data and Screens > Display Preferences."
+msgstr ""
+
+#: managed/Navigation_theisland.mgd.php
+msgid "The Island"
+msgstr ""
+
+#: managed/RiverleaStream_TheIsland.mgd.php
+msgid "TheIsland for River"
+msgstr ""
+
+#: managed/RiverleaStream_TheIsland.mgd.php
+msgid "TheIsland + River"
+msgstr ""
+
+#: settings/theisland.setting.php
+msgid "Contact Header Extras"
+msgstr ""
+
+#: settings/theisland.setting.php
+msgid ""
+"When viewing a contact record, display key contact information under the "
+"contact display name."
+msgstr ""
+
+#: settings/theisland.setting.php
+msgid ""
+"Example: {contact.address_primary.city}{, }"
+"{contact.address_primary.state_province_id:abbr}"
+msgstr ""
+
+#: settings/theisland.setting.php
+msgid ""
+"It can be any valid contact token. It is also possible to generate custom "
+"tokens using the SearchKit Tokens extension (this may impact performance)."
+msgstr ""
+
+#: settings/theisland.setting.php
+msgid "Hide the WordPress menubar when in CiviCRM"
+msgstr ""
+
+#: settings/theisland.setting.php
+msgid ""
+"When logged-in as an editor or administrator, the WordPress menubar can be a "
+"bit of a distraction. It can still be displayed again by clicking on the "
+"CiviCRM logo in the top menu, then clicking on \"Hide the menu\"."
+msgstr ""

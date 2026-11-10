@@ -1,0 +1,297 @@
+# Copyright CiviCRM LLC (c) 2004-2015
+# This file is distributed under the same license as the CiviCRM package.
+# If you contribute heavily to a translation and deem your work copyrightable,
+# make sure you license it to CiviCRM LLC under Academic Free License 3.0.
+# Translators:
+# Karolina Pomarańska <karolina@caltha.pl>, 2024
+# Marcin Lewandowski <email.marcina.lewandowskiego@gmail.com>, 2024
+# 
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: invoicehelper\n"
+"POT-Creation-Date: 2026-09-18 11:02+0200\n"
+"Last-Translator: Marcin Lewandowski <email.marcina.lewandowskiego@gmail.com>, 2024\n"
+"Language-Team: Polish (https://app.transifex.com/civicrm/teams/1905/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: CRM/Invoicehelper/Admin/Form/Setting.php
+msgid "Invalid email: %1"
+msgstr ""
+
+#: CRM/Invoicehelper/Contribute/Form/Task/Invoice.php
+msgid "To"
+msgstr "Do"
+
+#: CRM/Invoicehelper/Contribute/Form/Task/Invoice.php
+#: CRM/Invoicehelper/Contribute/Form/Task/PrintOrEmail.php
+msgid "Template"
+msgstr "Szablon"
+
+#: CRM/Invoicehelper/Contribute/Form/Task/Invoice.php
+#: templates/CRM/Invoicehelper/Contribute/Form/Task/Invoice.tpl
+msgid "Message"
+msgstr ""
+
+#: CRM/Invoicehelper/Contribute/Form/Task/Invoice.php
+msgid "Emailing invoice %1 of %2"
+msgstr ""
+
+#: CRM/Invoicehelper/Contribute/Form/Task/Invoice.php
+msgid "Sending Invoices by Email"
+msgstr ""
+
+#: CRM/Invoicehelper/Contribute/Form/Task/Invoice.php
+msgid "Email not sent"
+msgid_plural "%count emails not sent"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: CRM/Invoicehelper/Contribute/Form/Task/Invoice.php
+msgid "One invoice sent by email"
+msgid_plural "%count invoices sent by email"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: CRM/Invoicehelper/Contribute/Form/Task/Invoice.php
+msgid "Missing Email"
+msgstr ""
+
+#: CRM/Invoicehelper/Contribute/Form/Task/Invoice.php
+msgid "Email On Hold"
+msgstr ""
+
+#: CRM/Invoicehelper/Contribute/Form/Task/Invoice.php
+msgid "Deceased"
+msgstr ""
+
+#: CRM/Invoicehelper/Contribute/Form/Task/Invoice.php
+msgid "Do Not Email"
+msgstr ""
+
+#: CRM/Invoicehelper/Contribute/Form/Task/Invoice.php
+msgid "View Contact"
+msgstr ""
+
+#: CRM/Invoicehelper/Contribute/Form/Task/PrintOrEmail.php
+msgid "Use Template"
+msgstr ""
+
+#: CRM/Invoicehelper/Contribute/Form/Task/PrintOrEmail.php
+msgid "- select -"
+msgstr "- wybierz -"
+
+#: invoicehelper.php
+msgid "Invoice Helper"
+msgstr ""
+
+#: settings/invoicehelper.setting.php
+msgid "CC offline membership receipts"
+msgstr ""
+
+#: settings/invoicehelper.setting.php
+msgid "BCC offline membership receipts"
+msgstr ""
+
+#: settings/invoicehelper.setting.php
+msgid "Send membership receipts by default?"
+msgstr ""
+
+#: settings/invoicehelper.setting.php
+msgid ""
+"If yes, the \"Send Confirmation and Receipt?\" checkbox will be checked by "
+"default."
+msgstr ""
+
+#: settings/invoicehelper.setting.php
+msgid "No"
+msgstr "Nie"
+
+#: settings/invoicehelper.setting.php
+msgid "Yes"
+msgstr "Tak"
+
+#: settings/invoicehelper.setting.php
+msgid "CC offline contribution receipts"
+msgstr ""
+
+#: settings/invoicehelper.setting.php
+msgid "BCC offline contribution receipts"
+msgstr ""
+
+#: settings/invoicehelper.setting.php
+msgid "Send contribution receipts by default?"
+msgstr ""
+
+#: settings/invoicehelper.setting.php
+msgid "CC contribution invoice receipts"
+msgstr ""
+
+#: settings/invoicehelper.setting.php
+msgid "BCC contribution invoice receipts"
+msgstr ""
+
+#: settings/invoicehelper.setting.php
+msgid "You can enter multiple emails separated by a comma."
+msgstr ""
+
+#: templates/CRM/Invoicehelper/Contribute/Form/ContributionView_PaymentLink.tpl
+msgid "Pay Online Link"
+msgstr ""
+
+#: templates/CRM/Invoicehelper/Contribute/Form/ContributionView_PaymentLink.tpl
+msgid ""
+"You can copy-paste this link in an email to the contact. It grants them "
+"access to view and pay this specific contribution."
+msgstr ""
